@@ -16,8 +16,6 @@ def fetch_and_parse_detail(url):
     """Downloads a single detail page and extracts the User and Description"""
     try:
         resp = session.get(url, timeout=15)
-        # FIX: Removed manual utf-8 encoding override.
-        # Pass resp.content (raw bytes) so BeautifulSoup can detect the correct encoding (e.g., Shift-JIS).
         soup = BeautifulSoup(resp.content, 'html.parser')
         parsed = {}
         
@@ -87,7 +85,7 @@ def scrape_hissatuwaza_dictionary():
                 try:
                     old_data = json.load(f)
                     for item in old_data:
-                        moves_dict = {m['move_name']: m for m in item.get('moves', [])}
+                        moves_dict = {m['move_name']: m for m in item.get('moves',[])}
                         existing_series[item['series_name']] = {
                             "series_url": item['series_url'],
                             "moves": moves_dict
@@ -97,7 +95,6 @@ def scrape_hissatuwaza_dictionary():
 
         try:
             response = session.get(target_url, timeout=15)
-            # FIX: Removed manual utf-8 encoding override here too.
             soup = BeautifulSoup(response.content, 'html.parser')
             
             main_table = soup.find('table', {'border': '1'})
@@ -177,11 +174,18 @@ def scrape_hissatuwaza_dictionary():
             
         # SAVE the JSON file for THIS LETTER immediately!
         final_data =[]
-        for s_name, s_data in existing_series.items():
+        
+        # 1. SORT series alphabetically so Git doesn't falsely detect changes
+        for s_name in sorted(existing_series.keys()):
+            s_data = existing_series[s_name]
+            
+            # 2. SORT moves alphabetically within the series
+            sorted_moves = sorted(list(s_data["moves"].values()), key=lambda x: x["move_name"])
+            
             final_data.append({
                 "series_name": s_name,
                 "series_url": s_data["series_url"],
-                "moves": list(s_data["moves"].values())
+                "moves": sorted_moves
             })
             
         with open(output_filename, 'w', encoding='utf-8') as f:
