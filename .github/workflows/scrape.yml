@@ -2,11 +2,9 @@ name: Daily Scrape & Yomitan Release
 
 on:
   schedule:
-    # Runs at 00:00 UTC every day
     - cron: '0 0 * * *'
-  workflow_dispatch: # Allows you to run it manually from the Actions tab
+  workflow_dispatch: 
 
-# This silences the Node 20 deprecation warning by opting into Node 24 early
 env:
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true 
 
@@ -14,7 +12,7 @@ jobs:
   build-and-release:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # Needed to push commits and create releases
+      contents: write 
 
     steps:
       - name: Checkout repository
@@ -37,7 +35,6 @@ jobs:
         id: git-check
         run: |
           git add moves_*.json
-          # If there are changes, git diff --staged will return exit code 1 (caught by the if statement)
           if git diff --staged --quiet; then
             echo "changed=false" >> $GITHUB_OUTPUT
             echo "No changes detected. Skipping release."
@@ -70,7 +67,10 @@ jobs:
         with:
           tag_name: release-${{ steps.date.outputs.date }}
           name: Hissatsu Waza Yomitan Dictionary - ${{ steps.date.outputs.date }}
-          files: Hissatsu_Waza_Yomitan.zip
+          # Attach BOTH the dictionary AND the standalone index.json for Yomitan to read
+          files: |
+            Hissatsu_Waza_Yomitan.zip
+            index.json
           body: |
             Automated daily update.
             New moves or descriptions were scraped from the source and added to the dictionary.
