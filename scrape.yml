@@ -1,0 +1,51 @@
+name: Automated Scraper
+
+# This decides when the script runs
+on:
+  schedule:
+    # Runs automatically at 00:00 UTC every Sunday. 
+    # (You can change this cron timing later if you want)
+    - cron: '0 0 * * 0' 
+  workflow_dispatch: # This allows you to trigger it manually from the Actions tab
+
+# Give the bot permission to push changes to your repo
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1. Checkout your repository code
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # 2. Set up Python
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      # 3. Install the required libraries
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      # 4. Run the scraper script
+      - name: Run scraper
+        run: python scraper.py
+
+      # 5. Commit and push the JSON file back to the repository
+      - name: Commit and push changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          
+          # Check if the JSON file has changed
+          git add all_special_moves.json
+          
+          # Only commit if there are changes to avoid errors
+          git diff --staged --quiet || git commit -m "Automated data update: Fetched latest special moves"
+          git push
