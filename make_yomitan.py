@@ -6,12 +6,16 @@ import glob
 import datetime
 
 def extract_term_and_reading(raw_name):
-    match = re.search(r'^(.*?)[(（](.*?)[)）]$', raw_name.strip())
+    # Strip whitespace and common decorative Japanese brackets/quotes
+    clean_name = raw_name.strip(' \t\n\r『』「」【】《》〈〉')
+    
+    match = re.search(r'^(.*?)[(（](.*?)[)）]$', clean_name)
     if match:
         term = match.group(1).strip()
         reading = match.group(2).strip()
         return term, reading
-    return raw_name.strip(), ""
+        
+    return clean_name, ""
 
 def build_structured_content(series_name, user, description):
     content =[]
@@ -100,7 +104,7 @@ def build_yomitan_dictionary(input_dir=".", output_zip="Hissatsu_Waza_Yomitan.zi
     print(f"\nTotal moves processed: {total_entries}")
     
     chunk_size = 10000
-    chunks = [term_bank[i:i + chunk_size] for i in range(0, total_entries, chunk_size)]
+    chunks =[term_bank[i:i + chunk_size] for i in range(0, total_entries, chunk_size)]
     
     # Generate dictionary metadata with auto-update config
     date_str = datetime.datetime.utcnow().strftime("%Y.%m.%d")
