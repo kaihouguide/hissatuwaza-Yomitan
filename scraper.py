@@ -16,8 +16,9 @@ def fetch_and_parse_detail(url):
     """Downloads a single detail page and extracts the User and Description"""
     try:
         resp = session.get(url, timeout=15)
-        resp.encoding = 'utf-8'
-        soup = BeautifulSoup(resp.text, 'html.parser')
+        # FIX: Removed manual utf-8 encoding override.
+        # Pass resp.content (raw bytes) so BeautifulSoup can detect the correct encoding (e.g., Shift-JIS).
+        soup = BeautifulSoup(resp.content, 'html.parser')
         parsed = {}
         
         for dt in soup.find_all('table', {'border': '1'}):
@@ -35,7 +36,7 @@ def fetch_and_parse_detail(url):
             m_user = d_tds[1].get_text(strip=True) if len(d_tds) > 1 else ""
             
             # 2. Grab the Description (Combines all text from row 3 downwards)
-            desc_parts = []
+            desc_parts =[]
             if len(d_rows) >= 3:
                 for dr in d_rows[2:]:
                     td = dr.find('td')
@@ -96,8 +97,8 @@ def scrape_hissatuwaza_dictionary():
 
         try:
             response = session.get(target_url, timeout=15)
-            response.encoding = 'utf-8'
-            soup = BeautifulSoup(response.text, 'html.parser')
+            # FIX: Removed manual utf-8 encoding override here too.
+            soup = BeautifulSoup(response.content, 'html.parser')
             
             main_table = soup.find('table', {'border': '1'})
             if not main_table:
