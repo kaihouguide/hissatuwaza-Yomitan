@@ -4,10 +4,52 @@
         "series_url": "https://hissatuwaza.kill.jp/setume/IX.htm",
         "moves": [
             {
-                "move_name": "炎舞功(えんぶこう)",
-                "url": "https://hissatuwaza.kill.jp/setume/IX.htm#IX9",
+                "move_name": "乾坤一擲(けんこんいってき)",
+                "url": "https://hissatuwaza.kill.jp/setume/IX.htm#IX3",
+                "user": "燕児(えんじ)",
+                "description": "攻防の均整が取れし八掛(はっか)剣法のひとつでありながら全身の膂力と剄力を込めた一打にて決める攻めに特化した特異な技。(叛多亜さんより)"
+            },
+            {
+                "move_name": "五行算法(ごぎょうさんぽう)",
+                "url": "https://hissatuwaza.kill.jp/setume/IX.htm#IX2",
+                "user": "趙五行(ちょうごぎょう)",
+                "description": "五本の指を規則的に、或いは不規則に動かすことで事象の成り立ちや行方を万象を司どりし五元素の運行になぞらえて観察対象を見切る。(叛多亜さんより)"
+            },
+            {
+                "move_name": "八手連奏(はっしゅれんそう)",
+                "url": "https://hissatuwaza.kill.jp/setume/IX.htm#IX6",
+                "user": "サイ仲栄(ちゅうえい)",
+                "description": "刑山双刀術(ぎょうざんそうとうじゅつ)の一種である「四面八臂」の技を一人の相手へと八手同時に繰り出す。(叛多亜さんより)"
+            },
+            {
+                "move_name": "千蛇輻奔(せんだふくほん)",
+                "url": "https://hissatuwaza.kill.jp/setume/IX.htm#IX12",
                 "user": "罪炎(ざいえん)",
-                "description": "火官派刀法(かかんはとうほう)の一種で自身の周囲に炎を纏わせた状態で剣舞の型を繰り出すことで周囲に満ちている炎気を自らへと取り込む技だが、内外の功が未熟な場合は即座に焼死する危険性を持つ。(叛多亜さんより)"
+                "description": "火官派刀法(かかんはとうほう)の一種で構えた炎龍刀を水平に打ち振りながら高速回転することで無数の炎気が炎の刃として周囲へと襲いかかる。(叛多亜さんより)"
+            },
+            {
+                "move_name": "双燕連飛(そうえんれんひ)",
+                "url": "https://hissatuwaza.kill.jp/setume/IX.htm#IX1",
+                "user": "燕児(えんじ)　他",
+                "description": "内剄を込めた飛び道具を腕を振り上げてから振り下ろす動作を利用して二つの飛び道具を同時に投げつける。(叛多亜さんより)"
+            },
+            {
+                "move_name": "四面八臂(よんめんはっぴ)",
+                "url": "https://hissatuwaza.kill.jp/setume/IX.htm#IX6",
+                "user": "サイ仲栄(ちゅうえい)",
+                "description": "刑山双刀術(ぎょうざんそうとうじゅつ)の一種である「四面八臂」の技を一人の相手へと八手同時に繰り出す。(叛多亜さんより)"
+            },
+            {
+                "move_name": "流葉歩(りゅうようほ)",
+                "url": "https://hissatuwaza.kill.jp/setume/IX.htm#IX7",
+                "user": "燕児(えんじ)　他",
+                "description": "軽功術の一種で精神と肉体の平衡に内外剄の制御、更に混沌たる自体でも自身の道を見いだす見切り。　これら全てを同時に行うことで例え乱戦に置いても全てを見切って無傷の状態であらゆる場所を駆け抜けることが出来る。(叛多亜さんより)"
+            },
+            {
+                "move_name": "浮身(ふしん)",
+                "url": "https://hissatuwaza.kill.jp/setume/IX.htm#IX4",
+                "user": "燕児(えんじ)　他",
+                "description": "内剄と呼吸法によって自身の重量を相殺する軽功の術で足から放った外剄にて地面と反発し、高い機動力を発揮する。(叛多亜さんより)"
             },
             {
                 "move_name": "火蛇襲走(かだしゅうそう)",
@@ -22,40 +64,10 @@
                 "description": "火官派刀法(かかんはとうほう)の一種で体を低く屈めた状態から伸び上がりながら炎龍刀を突き上げることで全身に満ちた炎気を発してそのまま炎の奔流がうねりながら空へと駆けていく。(叛多亜さんより)"
             },
             {
-                "move_name": "乾坤一擲(けんこんいってき)",
-                "url": "https://hissatuwaza.kill.jp/setume/IX.htm#IX3",
-                "user": "燕児(えんじ)",
-                "description": "攻防の均整が取れし八掛(はっか)剣法のひとつでありながら全身の膂力と剄力を込めた一打にて決める攻めに特化した特異な技。(叛多亜さんより)"
-            },
-            {
-                "move_name": "五行算法(ごぎょうさんぽう)",
-                "url": "https://hissatuwaza.kill.jp/setume/IX.htm#IX2",
-                "user": "趙五行(ちょうごぎょう)",
-                "description": "五本の指を規則的に、或いは不規則に動かすことで事象の成り立ちや行方を万象を司どりし五元素の運行になぞらえて観察対象を見切る。(叛多亜さんより)"
-            },
-            {
-                "move_name": "四面八臂(よんめんはっぴ)",
-                "url": "https://hissatuwaza.kill.jp/setume/IX.htm#IX6",
-                "user": "サイ仲栄(ちゅうえい)",
-                "description": "刑山双刀術(ぎょうざんそうとうじゅつ)の一種である「四面八臂」の技を一人の相手へと八手同時に繰り出す。(叛多亜さんより)"
-            },
-            {
-                "move_name": "瞬撃四刀(しゅんげきしとう)",
-                "url": "https://hissatuwaza.kill.jp/setume/IX.htm#IX5",
-                "user": "サイ仲栄(ちゅうえい)",
-                "description": "刑山双刀術(ぎょうざんそうとうじゅつ)の一種で素早い速度で双剣を振るうことで二振りの刃が倍の四刀に見えるほどの斬撃を見舞う。(叛多亜さんより)"
-            },
-            {
-                "move_name": "千蛇輻奔(せんだふくほん)",
-                "url": "https://hissatuwaza.kill.jp/setume/IX.htm#IX12",
+                "move_name": "炎舞功(えんぶこう)",
+                "url": "https://hissatuwaza.kill.jp/setume/IX.htm#IX9",
                 "user": "罪炎(ざいえん)",
-                "description": "火官派刀法(かかんはとうほう)の一種で構えた炎龍刀を水平に打ち振りながら高速回転することで無数の炎気が炎の刃として周囲へと襲いかかる。(叛多亜さんより)"
-            },
-            {
-                "move_name": "八手連奏(はっしゅれんそう)",
-                "url": "https://hissatuwaza.kill.jp/setume/IX.htm#IX6",
-                "user": "サイ仲栄(ちゅうえい)",
-                "description": "刑山双刀術(ぎょうざんそうとうじゅつ)の一種である「四面八臂」の技を一人の相手へと八手同時に繰り出す。(叛多亜さんより)"
+                "description": "火官派刀法(かかんはとうほう)の一種で自身の周囲に炎を纏わせた状態で剣舞の型を繰り出すことで周囲に満ちている炎気を自らへと取り込む技だが、内外の功が未熟な場合は即座に焼死する危険性を持つ。(叛多亜さんより)"
             },
             {
                 "move_name": "盤石足(ばんじゃくそく)",
@@ -64,616 +76,22 @@
                 "description": "軽功の逆である重功の技で自身の内剄を巡らせることで身体を沈墜させて両足を大地へと固定化させ、鍛え上げられた内剄により相手の攻撃を完全に受け止め、逆に衝撃を跳ね返す。(叛多亜さんより)"
             },
             {
-                "move_name": "双燕連飛(そうえんれんひ)",
-                "url": "https://hissatuwaza.kill.jp/setume/IX.htm#IX1",
-                "user": "燕児(えんじ)　他",
-                "description": "内剄を込めた飛び道具を腕を振り上げてから振り下ろす動作を利用して二つの飛び道具を同時に投げつける。(叛多亜さんより)"
-            },
-            {
-                "move_name": "浮身(ふしん)",
-                "url": "https://hissatuwaza.kill.jp/setume/IX.htm#IX4",
-                "user": "燕児(えんじ)　他",
-                "description": "内剄と呼吸法によって自身の重量を相殺する軽功の術で足から放った外剄にて地面と反発し、高い機動力を発揮する。(叛多亜さんより)"
-            },
-            {
-                "move_name": "流葉歩(りゅうようほ)",
-                "url": "https://hissatuwaza.kill.jp/setume/IX.htm#IX7",
-                "user": "燕児(えんじ)　他",
-                "description": "軽功術の一種で精神と肉体の平衡に内外剄の制御、更に混沌たる自体でも自身の道を見いだす見切り。　これら全てを同時に行うことで例え乱戦に置いても全てを見切って無傷の状態であらゆる場所を駆け抜けることが出来る。(叛多亜さんより)"
+                "move_name": "瞬撃四刀(しゅんげきしとう)",
+                "url": "https://hissatuwaza.kill.jp/setume/IX.htm#IX5",
+                "user": "サイ仲栄(ちゅうえい)",
+                "description": "刑山双刀術(ぎょうざんそうとうじゅつ)の一種で素早い速度で双剣を振るうことで二振りの刃が倍の四刀に見えるほどの斬撃を見舞う。(叛多亜さんより)"
             }
         ]
     },
     {
-        "series_name": "ノーガンズライフ",
-        "series_url": "https://hissatuwaza.kill.jp/setume/no-ganzu.htm",
+        "series_name": "K.O.マサトメ",
+        "series_url": "https://hissatuwaza.kill.jp/setume/komasatome.htm",
         "moves": [
             {
-                "move_name": "シュトルム・ファウスト",
-                "url": "https://hissatuwaza.kill.jp/setume/no-ganzu.htm#no-ganzu1",
-                "user": "セブン",
-                "description": "腕のところに仕込まれた4つの銃口から\n同時に射撃を繰り出して攻撃をする。"
-            },
-            {
-                "move_name": "ヒュッツェ・ファウスト",
-                "url": "https://hissatuwaza.kill.jp/setume/no-ganzu.htm#no-ganzu2",
-                "user": "セブン",
-                "description": "掌に隠されたバーナーのようなものを\n展開させ、エネルギーを噴出させて攻撃をする。"
-            },
-            {
-                "move_name": "ヒュンケファウスト",
-                "url": "https://hissatuwaza.kill.jp/setume/no-ganzu.htm#no-ganzu1",
-                "user": "セブン",
-                "description": "腕のところに仕込まれた4つの銃口から\n同時に射撃を繰り出して攻撃をする。"
-            }
-        ]
-    },
-    {
-        "series_name": "農業ムスメ！",
-        "series_url": "https://hissatuwaza.kill.jp/setume/noumusu.htm",
-        "moves": [
-            {
-                "move_name": "トリキック",
-                "url": "https://hissatuwaza.kill.jp/setume/noumusu.htm#noumusu2",
-                "user": "ニワトリ",
-                "description": "1回目『越野家の朝』の｢卵とりその1｣で登場。卵を取ろうとしたヒカリの顔面目掛け両足での飛び蹴りを行う(技名は4コマ目の背景に書かれていた文章より)。(小浜太介さんより)"
-            },
-            {
-                "move_name": "必殺！権力とお金のパワー！！",
-                "url": "https://hissatuwaza.kill.jp/setume/noumusu.htm#noumusu1",
-                "user": "黒羽ミチル",
-                "description": "5回目『コスプレ大決戦！？』の｢スクランブル！！｣と｢必殺技？｣で登場。ビニールハウスを荒らしていたイノシシに対して変身後使用した技(ミチルは｢必殺技？｣の4コマ目でこの技名を言っている)。KSB(黒羽私設部隊)にトランシーバーで連絡を行い、戦闘機からの威嚇射撃でイノシシを追い払ってもらう。(小浜太介さんより)"
-            }
-        ]
-    },
-    {
-        "series_name": "ノーゲーム・ノーライフ",
-        "series_url": "https://hissatuwaza.kill.jp/setume/nogame.htm",
-        "moves": [
-            {
-                "move_name": "ブラッディースクライド",
-                "url": "https://hissatuwaza.kill.jp/setume/nogame.htm#nogame4",
-                "user": "シロ",
-                "description": "腕を捻って手のひらで突きを繰り出す。\n兄に対してツッコミ的な感じで使用しているので、\n多分ダイの大冒険のパロディ的なもの。"
-            },
-            {
-                "move_name": "九遠第四加護(クーリ・アンセ)",
-                "url": "https://hissatuwaza.kill.jp/setume/nogame.htm#nogame1",
-                "user": "ジブリール",
-                "description": "第2巻初登場。結界のようなものを展開させる最上封印魔法。\n水爆さえも簡単に防ぐことも可能。"
-            },
-            {
-                "move_name": "昇龍拳(ドラゴンアッパー)",
-                "url": "https://hissatuwaza.kill.jp/setume/nogame.htm#nogame5",
-                "user": "シロ",
-                "description": "兄に対して繰り出されたツッコミ的な\nアッパーカット攻撃。"
-            },
-            {
-                "move_name": "神撃",
-                "url": "https://hissatuwaza.kill.jp/setume/nogame.htm#nogame3",
-                "user": "アルトシュ",
-                "description": "第6巻初登場。全天翼族(フリューゲル)が放つ「天撃」を\nアルトシュの力と収束させて繰り出す一撃。\n使用後は天翼族は力を使い果たし、アルトシュ自身も弱体化してしまう。"
-            },
-            {
-                "move_name": "天撃",
-                "url": "https://hissatuwaza.kill.jp/setume/nogame.htm#nogame2",
-                "user": "ジブリール",
-                "description": "天翼族(フリューゲル)が使用する最大最強の攻撃。\n自身の体内構造を精霊回廊接続神経に変質させて、源潮流から力を組み上げて\n繰り出す一撃。使用にはかなりの負担がかかる。"
-            }
-        ]
-    },
-    {
-        "series_name": "濃縮メロンコリニスタ",
-        "series_url": "https://hissatuwaza.kill.jp/setume/meronko.htm",
-        "moves": [
-            {
-                "move_name": "忍法分身の術",
-                "url": "https://hissatuwaza.kill.jp/setume/meronko.htm#meronko1",
-                "user": "V字型頭のキャラの残像",
-                "description": "5玉めの｢抜け忍｣で登場。この技に対して巾着型頭のキャラは手裏剣を投げて攻撃するも、全て残像だった(発動した人物も含む)為攻撃は外れてしまった。(小浜太介さんより)"
-            }
-        ]
-    },
-    {
-        "series_name": "Notes",
-        "series_url": "https://hissatuwaza.kill.jp/setume/notes.htm",
-        "moves": [
-            {
-                "move_name": "ブラック・バレル",
-                "url": "https://hissatuwaza.kill.jp/setume/notes.htm#notes1",
-                "user": "銃神（GODO)",
-                "description": "「月姫」の設定資料集、「月姫読本」掲載の小説・「Notes．」より。\nシオンのブラックバレル（レプリカ）の本家本元。別名、「Longinus」。\n荒廃した未来の世界に充満している物質「宇宙塵（通称・〝ジン〟）」を殺す能力があるが、\n未来においてジンを体に含まない生物はいないため、この銃を扱うことが出来るのは、世界で唯一生き残った、\nジンを体に含まない「純血の人間」たる「銃神」のみである。攻撃対象になる生命種が強大な力を持っていれば持っているほど\n（即ち、ジンを体に含んでいれば含んでいるほど）、殺傷能力は飛躍する。アルティミットワン・「タイプ・ヴーナス」、\n同じく「タイプ・サターン」を撃墜した。\n(柳島英志さんより)"
-            },
-            {
-                "move_name": "魔剣・斬撃皇帝",
-                "url": "https://hissatuwaza.kill.jp/setume/notes.htm#notes2",
-                "user": "騎士エデム",
-                "description": "「月姫」の設定資料集、「月姫読本」掲載の小説・「Notes．」より。\n「魔剣」とは、荒廃した未来の世界において、ジン（「ブラックバレル」の項を参照）を特に多く体内に含んで生まれてきた赤子が、自分の体から分離させて生み落とす、ジンの結晶。中でも、実戦に投入できる程の威力を誇る魔剣を持つ者が「騎士」と呼ばれる。尚、一人の騎士につき、魔剣は一振り。その性能は、もはや「武器」というより「兵器」の次元である。\n　騎士エデムの斬撃皇帝は、各天体の生物の最強種・〝アルティミット・ワン〟の内の一体であり、全長数千メートル、更に全身はガスという出鱈目な形態を持っていた「タイプ・ジュピター」を、こともあろうに一刀両断してしまう（「我に断てぬもの無し！」）。直後にタイプ・ジュピターの核が暴走して爆発し、大陸一つを焼き尽くしてしまったのだが・・・南無。因みに、この時エデムはどうなったのかは不明。(柳島英志さんより)"
-            }
-        ]
-    },
-    {
-        "series_name": "濃爆おたく先生",
-        "series_url": "https://hissatuwaza.kill.jp/setume/noubakus.htm",
-        "moves": [
-            {
-                "move_name": "オルテガハンマー",
-                "url": "https://hissatuwaza.kill.jp/setume/noubakus.htm#noubakus1",
-                "user": "暴尾亜空（あばおあくう）",
-                "description": "両手を組んで握り、相手の頭にたたきつける。主におたくとして許せない相手に対して使用する。(少不さんより)"
-            },
-            {
-                "move_name": "ガイアドリルパンチ",
-                "url": "https://hissatuwaza.kill.jp/setume/noubakus.htm#noubakus4",
-                "user": "暴尾亜空（あばおあくう）",
-                "description": "右手にドリルをつけて攻撃（？）する。「ガイア大佐のドムがドリルを装備していれば、ガンダムに勝てたかもしれない」という思いから作った。(少不さんより)"
-            },
-            {
-                "move_name": "ジェットパフォーマンスアタック",
-                "url": "https://hissatuwaza.kill.jp/setume/noubakus.htm#noubakus3",
-                "user": "叫ぶジオンの会",
-                "description": "路上でガンダム（特にジオン）について熱い思いを叫び、行きかう人々の心を震わせる。(少不さんより)"
-            },
-            {
-                "move_name": "ムンゾ流奥義コロニー落とし",
-                "url": "https://hissatuwaza.kill.jp/setume/noubakus.htm#noubakus2",
-                "user": "暴尾亜空（あばおあくう）",
-                "description": "擦符麗夜（こすぷれいや）が想像した技。どんな技かは不明。(少不さんより)"
-            },
-            {
-                "move_name": "モノリスチョップ",
-                "url": "https://hissatuwaza.kill.jp/setume/noubakus.htm#noubakus5",
-                "user": "千巣負湾打（せんすおぶわんだ）",
-                "description": "謎の石版、モノリスで殴る。アシモフをおちょくられたために使用したが、モノリスはアシモフではなくクラークだそうだ。(少不さんより)"
-            },
-            {
-                "move_name": "夏への扉チョップ",
-                "url": "https://hissatuwaza.kill.jp/setume/noubakus.htm#noubakus6",
-                "user": "暴尾亜空（あばおあくう）",
-                "description": "その辺のドアを取り外して殴る。「モノリスチョップ」からさらにずらした技。(少不さんより)"
-            }
-        ]
-    },
-    {
-        "series_name": "濃爆おたく大統領",
-        "series_url": "https://hissatuwaza.kill.jp/setume/noubakuotaku.htm",
-        "moves": [
-            {
-                "move_name": "わにパンチ",
-                "url": "https://hissatuwaza.kill.jp/setume/noubakuotaku.htm#noubaku1",
-                "user": "おたく大統領",
-                "description": "大統領の頭に住み着き、萌えるエ○ゲに「萌えるワニ〜」と鳴く伝説のUMA「萌えるワニ」によるかみつき攻撃。\nけっしてパンチではない。(2cさんより)"
-            },
-            {
-                "move_name": "案(アイデア)電波",
-                "url": "https://hissatuwaza.kill.jp/setume/noubakuotaku.htm#noubaku2",
-                "user": "特撮大臣、セント＝ウィーンほか",
-                "description": "「考えた案はどうする？」「監督に投書すれば…」「いや、投書ではプライドの高い彼らはけして使わない。\n彼らに思いつかせればいいのだ！」 (2cさんより)"
-            },
-            {
-                "move_name": "史上最大助走地球一周ロケットパンチ",
-                "url": "https://hissatuwaza.kill.jp/setume/noubakuotaku.htm#noubaku3",
-                "user": "おたく三塁手",
-                "description": "助走した範囲を廃墟にして放つ究極のロケットパンチ。悪の組織の方がなんぼかマシである。(2cさんより)"
-            },
-            {
-                "move_name": "大回転えびぞり分身HJロケットパンチ",
-                "url": "https://hissatuwaza.kill.jp/setume/noubakuotaku.htm#noubaku4",
-                "user": "おたく横綱",
-                "description": "最強のロケットパンチ候補の1つ。まず右腕を握りつぶし、大回転しつつ上昇、エビぞって投げる　らしい。(2cさんより)"
-            },
-            {
-                "move_name": "潮招きロケットパンチ",
-                "url": "https://hissatuwaza.kill.jp/setume/noubakuotaku.htm#noubaku5",
-                "user": "おたく伯爵",
-                "description": "最強のロケットパンチとして考えられた技。\n本体より大きな腕で攻撃。もちろんバックファイヤーでボロボロに。そこがかっこいいらしい。(2cさんより)"
-            },
-            {
-                "move_name": "明日のためにその2ロケットパンチ",
-                "url": "https://hissatuwaza.kill.jp/setume/noubakuotaku.htm#noubaku6",
-                "user": "おたく将軍",
-                "description": "最強のロケットパンチ候補の1つ。ファイティングポーズをとり、目標をぶちぬくように撃つべし！ロボットが人型である理由らしい。(2cさんより)"
-            },
-            {
-                "move_name": "破邪剣征桜花放神",
-                "url": "https://hissatuwaza.kill.jp/setume/noubakuotaku.htm#noubaku7",
-                "user": "Z",
-                "description": "「サクラ大戦おっかけ日記」に登場。元ネタは「サクラ大戦」の技だが、実際はただ本（マガジンZ）で殴っているだけ。同種の技に「スネグーラチカ」「ピーカヴァヤ・ダーマ」などがある。「スネグーラチカ」だけは、本二冊で殴っていた。(少不さんより)"
-            }
-        ]
-    },
-    {
-        "series_name": "ノーブルリージュ",
-        "series_url": "https://hissatuwaza.kill.jp/setume/nri-ju.htm",
-        "moves": [
-            {
-                "move_name": "解呪(ディスペル)",
-                "url": "https://hissatuwaza.kill.jp/setume/nri-ju.htm#nri-ju2",
-                "user": "ラング・ドナヒュー",
-                "description": "第1巻初登場。魔術書を使用して繰り出した魔法の1つ。\n相手の魔法効果を打ち消す。"
-            },
-            {
-                "move_name": "縄使い(ロープトリック)",
-                "url": "https://hissatuwaza.kill.jp/setume/nri-ju.htm#nri-ju1",
-                "user": "ラング・ドナヒュー",
-                "description": "第1巻初登場。\nラングが魔術書なしで使用することが出来る魔法の1つ。\nロープを自在に操ることが可能。\n人間を縛ったりすることも可能だが、魔法自体のパワーは弱い。"
-            }
-        ]
-    },
-    {
-        "series_name": "ノーマン",
-        "series_url": "https://hissatuwaza.kill.jp/setume/no-man.htm",
-        "moves": [
-            {
-                "move_name": "うしろむきうち",
-                "url": "https://hissatuwaza.kill.jp/setume/no-man.htm#no-man9",
-                "user": "デービット・フライト",
-                "description": "フライトの奥の手。弾丸の軌道を曲げて、後ろにいる相手を狙撃する。弾の軌道を操作できるフライト特製銃ならではの技である。(ケケケさんより)"
-            },
-            {
-                "move_name": "音速能力",
-                "url": "https://hissatuwaza.kill.jp/setume/no-man.htm#no-man4",
-                "user": "ブッチ",
-                "description": "目にも留まらぬスピードで走る。(少不さんより)"
-            },
-            {
-                "move_name": "透視能力",
-                "url": "https://hissatuwaza.kill.jp/setume/no-man.htm#no-man7",
-                "user": "デービッド・フライト",
-                "description": "物を透かして見ることができる。この能力と弾道を曲げることができる銃、そして百発百中の銃の腕前があれば、壁の向こうにいる相手を狙い撃ちにすることもできる。(少不さんより)"
-            },
-            {
-                "move_name": "毒ガス能力",
-                "url": "https://hissatuwaza.kill.jp/setume/no-man.htm#no-man3",
-                "user": "ゲルダン人",
-                "description": "口から毒ガスを吐く。自分自身はその毒に対して耐性を持っているが、何らかの方法でその耐性を弱められてしまうと、自分の吐いた毒で死んでしまう。(少不さんより)"
-            },
-            {
-                "move_name": "破壊脳波",
-                "url": "https://hissatuwaza.kill.jp/setume/no-man.htm#no-man8",
-                "user": "ザロモン",
-                "description": "脳波を放って、物体を破壊する。人間の体内にある小型の爆弾だけを破壊するような精密なこともできる。(少不さんより)"
-            },
-            {
-                "move_name": "分身能力",
-                "url": "https://hissatuwaza.kill.jp/setume/no-man.htm#no-man6",
-                "user": "ルーピ",
-                "description": "自分と同じ姿の分身を作り出す。その分身は実体を持ち、自分で考えて行動することができる。(少不さんより)"
-            },
-            {
-                "move_name": "分裂能力",
-                "url": "https://hissatuwaza.kill.jp/setume/no-man.htm#no-man1",
-                "user": "ゲルダン人",
-                "description": "体をバラバラにされても死なず、各部を自在に動かすことができる。くっつけて再生することも可能だが、頭部を破壊されると死ぬ。(少不さんより)"
-            },
-            {
-                "move_name": "変身能力",
-                "url": "https://hissatuwaza.kill.jp/setume/no-man.htm#no-man2",
-                "user": "ゲルダン人",
-                "description": "他者の姿に変身する。姿だけで、能力は変わらない。(少不さんより)"
-            },
-            {
-                "move_name": "誘導能力",
-                "url": "https://hissatuwaza.kill.jp/setume/no-man.htm#no-man5",
-                "user": "ルイ・ブードル",
-                "description": "動物を呼び寄せたり、自在に操ったりできる。(少不さんより)"
-            }
-        ]
-    },
-    {
-        "series_name": "脳みそプルン！",
-        "series_url": "https://hissatuwaza.kill.jp/setume/noumisop.htm",
-        "moves": [
-            {
-                "move_name": "おふくろふくろ拳",
-                "url": "https://hissatuwaza.kill.jp/setume/noumisop.htm#noumisop10",
-                "user": "甲府の爆弾",
-                "description": "相手に布団を掛けて視界と動きを封じ、パンチのラッシュを浴びせて眠りにつかせる。(松の字さんより)"
-            },
-            {
-                "move_name": "ギプスキック",
-                "url": "https://hissatuwaza.kill.jp/setume/noumisop.htm#noumisop41",
-                "user": "パポン",
-                "description": "その名の通り、なぜか悪臭を放つ魔球。最近はむかついた打者に打たれることが多くなってきたらしい。（松の字さんより）"
-            },
-            {
-                "move_name": "ギャラクティカトッピング",
-                "url": "https://hissatuwaza.kill.jp/setume/noumisop.htm#noumisop34",
-                "user": "桜田大門",
-                "description": "オーラに包まれて空中に浮き、逆立ちした体勢で料理の盛りつけを行う。(松の字さんより)"
-            },
-            {
-                "move_name": "グランドクロス",
-                "url": "https://hissatuwaza.kill.jp/setume/noumisop.htm#noumisop33",
-                "user": "桜田大門",
-                "description": "ふたつのフライパンを交差させるように持ち、ジャンプしながらふたつの料理を同時に焼く。バックには、当然のごとく宇宙が出現する。(松の字さんより)"
-            },
-            {
-                "move_name": "ここテスト出るぞ攻撃",
-                "url": "https://hissatuwaza.kill.jp/setume/noumisop.htm#noumisop28",
-                "user": "マスク・ド・教師",
-                "description": "チョークを持ち、それで黒板を叩くような動作で敵の顔面を攻撃する。(松の字さんより)"
-            },
-            {
-                "move_name": "サークル作り",
-                "url": "https://hissatuwaza.kill.jp/setume/noumisop.htm#noumisop20",
-                "user": "ビッグ・ザ・グレイ",
-                "description": "自らUFOに乗り込み、謎のビームで相手の体にミステリーサークルを作る反則技。(松の字さんより)"
-            },
-            {
-                "move_name": "サッカーやってて地球にケンカを売っちまったキック",
-                "url": "https://hissatuwaza.kill.jp/setume/noumisop.htm#noumisop6",
-                "user": "山田マン",
-                "description": "サッカーボールを蹴るつもりが、地面を蹴ってしまう。山田が昔やってしまったミスがモチーフらしい。普通に考えて自分が痛いだけなのだが、なぜか敵もダメージを受けていた。(松の字さんより)"
-            },
-            {
-                "move_name": "スキューバ拳",
-                "url": "https://hissatuwaza.kill.jp/setume/noumisop.htm#noumisop31",
-                "user": "土佐の水神",
-                "description": "相手を海中に放り込み、アクアラングから空気の代わりに自分の屁を送り込んで悶絶させる。使用後、相手から「『拳』じゃないじゃん、これ」とつっこまれてしまった。(松の字さんより)"
-            },
-            {
-                "move_name": "たわらこすり",
-                "url": "https://hissatuwaza.kill.jp/setume/noumisop.htm#noumisop15",
-                "user": "覆面(マスク)山",
-                "description": "相手の顔面をつかみ、土俵の俵にこすりつけて攻撃する。ちなみに相手の髷を持っているので、この技を出した時点で反則負けである。(松の字さんより)"
-            },
-            {
-                "move_name": "つよしキック",
-                "url": "https://hissatuwaza.kill.jp/setume/noumisop.htm#noumisop24",
-                "user": "つよし",
-                "description": "某歌手にそっくりの保育園児・つよしの必殺キック。かけ声は「ソイヤ！」。(松の字さんより)"
-            },
-            {
-                "move_name": "ドリルブラスター",
-                "url": "https://hissatuwaza.kill.jp/setume/noumisop.htm#noumisop14",
-                "user": "キング歯科の医師",
-                "description": "[1]両手のドリルで連続して突きを繰り出し、歯を削る。(松の字さんより)\n[2]頭部の巨大ドリルを患者の口に突っ込み、歯を削る。絵を見る限り、まともな治療行為が行われているとは考えがたい。(松の字さんより)"
-            },
-            {
-                "move_name": "ドリル舞踏会",
-                "url": "https://hissatuwaza.kill.jp/setume/noumisop.htm#noumisop14",
-                "user": "キング歯科の医師",
-                "description": "[1]両手のドリルで連続して突きを繰り出し、歯を削る。(松の字さんより)\n[2]頭部の巨大ドリルを患者の口に突っ込み、歯を削る。絵を見る限り、まともな治療行為が行われているとは考えがたい。(松の字さんより)"
-            },
-            {
-                "move_name": "トルネードネギ食え",
-                "url": "https://hissatuwaza.kill.jp/setume/noumisop.htm#noumisop42",
-                "user": "チームネギネギ",
-                "description": "空中で回転しながら、ネギをばらまく。（松の字さんより）"
-            },
-            {
-                "move_name": "ニュークラウン",
-                "url": "https://hissatuwaza.kill.jp/setume/noumisop.htm#noumisop27",
-                "user": "生命小宇宙戦隊ジンタイ",
-                "description": "[1]合体することで普通の少年に変身する戦隊ヒーロー・ジンタイの必殺技。威力はほとんどない。(松の字さんより)\n[2]合体することで普通の少年に変身する戦隊ヒーロー・ジンタイの必殺技。威力はあまり無い。(松の字さんより)"
-            },
-            {
-                "move_name": "ニューホライズン",
-                "url": "https://hissatuwaza.kill.jp/setume/noumisop.htm#noumisop27",
-                "user": "生命小宇宙戦隊ジンタイ",
-                "description": "[1]合体することで普通の少年に変身する戦隊ヒーロー・ジンタイの必殺技。威力はほとんどない。(松の字さんより)\n[2]合体することで普通の少年に変身する戦隊ヒーロー・ジンタイの必殺技。威力はあまり無い。(松の字さんより)"
-            },
-            {
-                "move_name": "ネギネギカット",
-                "url": "https://hissatuwaza.kill.jp/setume/noumisop.htm#noumisop1",
-                "user": "ネギネギマスター",
-                "description": "真心を込めながら、ネギを光速で千切りにする。包丁とまな板が奏でる音色によって、ミラクルヒロシの落語に魅了されていたネギネギ団2号と3号を正気に戻した。(松の字さんより)"
-            },
-            {
-                "move_name": "ノブナガスパート",
-                "url": "https://hissatuwaza.kill.jp/setume/noumisop.htm#noumisop38",
-                "user": "ノブナガ",
-                "description": "マラソンの高橋尚子のように、サングラスを投げ捨てて猛ダッシュする。この時Qちゃんつながりで、ちょんまげがオバケのQ太郎の髪型に変化している。\n(松の字さんより)"
-            },
-            {
-                "move_name": "フォールはずし",
-                "url": "https://hissatuwaza.kill.jp/setume/noumisop.htm#noumisop18",
-                "user": "ビッグ・ザ・グレイ",
-                "description": "UFOを呼び、相手を吸い寄せてもらうことでフォールから逃れる反則技。(松の字さんより)"
-            },
-            {
-                "move_name": "ベースランニングボム",
-                "url": "https://hissatuwaza.kill.jp/setume/noumisop.htm#noumisop36",
-                "user": "野球戦隊野球ナイン",
-                "description": "相手の足元で爆発を起こす。絵が小さいので詳細不明。(松の字さんより)"
-            },
-            {
-                "move_name": "ヘルズピッチング",
-                "url": "https://hissatuwaza.kill.jp/setume/noumisop.htm#noumisop37",
-                "user": "野球戦隊野球ナイン",
-                "description": "単に敵めがけて思いっきりボールを投げるだけの技。(松の字さんより)"
-            },
-            {
-                "move_name": "ミラクル弟子気分",
-                "url": "https://hissatuwaza.kill.jp/setume/noumisop.htm#noumisop23",
-                "user": "ミラクルヒロシ",
-                "description": "相手がまるで自分の弟子であるかのように振るまい、本当に弟子入りしたと錯覚させてしまう幻惑技。(松の字さんより)"
-            },
-            {
-                "move_name": "メガネ落とし",
-                "url": "https://hissatuwaza.kill.jp/setume/noumisop.htm#noumisop40",
-                "user": "ノブナガ",
-                "description": "相手のメガネをつかんで投げ飛ばす。かけた相手が、顔とサングラスが一体化している一休だからこそ成立した技であろう。(松の字さんより)"
-            },
-            {
-                "move_name": "よそ見投げ",
-                "url": "https://hissatuwaza.kill.jp/setume/noumisop.htm#noumisop42",
-                "user": "チームネギネギ",
-                "description": "空中で回転しながら、ネギをばらまく。（松の字さんより）"
-            },
-            {
-                "move_name": "ライトニングカット",
-                "url": "https://hissatuwaza.kill.jp/setume/noumisop.htm#noumisop32",
-                "user": "桜田大門",
-                "description": "空中に放り投げた食材を、日本刀で切り刻む。(松の字さんより)"
-            },
-            {
-                "move_name": "3本の矢(サンフレッチェ)広島",
-                "url": "https://hissatuwaza.kill.jp/setume/noumisop.htm#noumisop21",
-                "user": "毛利三兄弟",
-                "description": "1人に対して3人で、\n多方向から同時に手に持った\n打ち上げ花火を相手に向けて放つ。(しかも至近距離で)"
-            },
-            {
-                "move_name": "兄貴パンチ",
-                "url": "https://hissatuwaza.kill.jp/setume/noumisop.htm#noumisop25",
-                "user": "犬神銀次",
-                "description": "「ロボ病」にかかってしまったヤクザ・犬神の技。子分がリモコンを操作することで、腕をロケットパンチとして飛ばす。(松の字さんより)"
-            },
-            {
-                "move_name": "一休鉄槌肘",
-                "url": "https://hissatuwaza.kill.jp/setume/noumisop.htm#noumisop4",
-                "user": "代目一休",
-                "description": "「靴ひもがほどけている」といって相手をかがませ、その隙をついて肘を相手の後頭部に落とす荒技。(松の字さんより)"
-            },
-            {
-                "move_name": "猪馬ボム",
-                "url": "https://hissatuwaza.kill.jp/setume/noumisop.htm#noumisop17",
-                "user": "猪馬",
-                "description": "相手をつかんで逆さにし、頭から落とす正統派のプロレス技。(松の字さんより)"
-            },
-            {
-                "move_name": "牛出産拳",
-                "url": "https://hissatuwaza.kill.jp/setume/noumisop.htm#noumisop30",
-                "user": "神戸の弾丸＆その仲間",
-                "description": "牛の子宮の中に隠れ、これから牛の出産が始まると偽って敵を誘い寄せる。そして相手が牛の背後に立ったところで、飛び出してきて攻撃する。相手が来るまで飲まず食わずで待っていなければならないため、技を出したあと自分も気絶してしまった。(松の字さんより)"
-            },
-            {
-                "move_name": "売り子打法",
-                "url": "https://hissatuwaza.kill.jp/setume/noumisop.htm#noumisop16",
-                "user": "ビチロー",
-                "description": "ビールを売りながら打つという、むちゃくちゃな打法。それでも「メジャーで通用する」と言われるほどの結果を残しているのが恐ろしい。(松の字さんより)"
-            },
-            {
-                "move_name": "「俺昨日全然テスト勉強してないよ」と言っておきながら目の下にクマを作ってるビーム",
-                "url": "https://hissatuwaza.kill.jp/setume/noumisop.htm#noumisop5",
-                "user": "山田マン",
-                "description": "目の下のクマからビームを撃つ。山田がよくやる行動がモチーフらしい。(松の字さんより)"
-            },
-            {
-                "move_name": "女・子供拳",
-                "url": "https://hissatuwaza.kill.jp/setume/noumisop.htm#noumisop9",
-                "user": "神奈川の破壊神＆その家族",
-                "description": "妻と息子が対戦相手に泣きつき、戦意を喪失させたところで三人の連係攻撃をくらわせる。(松の字さんより)"
-            },
-            {
-                "move_name": "帰宅部パンチ",
-                "url": "https://hissatuwaza.kill.jp/setume/noumisop.htm#noumisop26",
-                "user": "生命小宇宙戦隊ジンタイ",
-                "description": "合体することで普通の少年に変身する戦隊ヒーロー・ジンタイの必殺技。見た目も威力も情けないパンチ。(松の字さんより)"
-            },
-            {
-                "move_name": "休載先告",
-                "url": "https://hissatuwaza.kill.jp/setume/noumisop.htm#noumisop44",
-                "user": "漫画仙人",
-                "description": "長年の修行で得た予知能力により、来月までに休載する漫画を当てることができる奥義。(松の字さんより)"
-            },
-            {
-                "move_name": "食い倒れ拳",
-                "url": "https://hissatuwaza.kill.jp/setume/noumisop.htm#noumisop13",
-                "user": "大坂の太閤",
-                "description": "相手の口から胃まで拳を突っ込み、そこで増えるわかめと水をばらまくことによって胃を限界まで膨らませる。(松の字さんより)"
-            },
-            {
-                "move_name": "高気圧シュート",
-                "url": "https://hissatuwaza.kill.jp/setume/noumisop.htm#noumisop3",
-                "user": "武落苦吉四六(ブラックきっちょむ)",
-                "description": "後から肩を叩き、振り向いた相手の頬に人差し指を刺すいたずらに、すさまじい破壊力を持たせた技。(松の字さんより)"
-            },
-            {
-                "move_name": "頁数確眼",
-                "url": "https://hissatuwaza.kill.jp/setume/noumisop.htm#noumisop43",
-                "user": "漫画仙人",
-                "description": "ページ数が書かれていないため、見つけるのが困難な扉ページでも一発で開くことができる奥義。(松の字さんより)"
-            },
-            {
-                "move_name": "肛門アッパー",
-                "url": "https://hissatuwaza.kill.jp/setume/noumisop.htm#noumisop40",
-                "user": "ノブナガ",
-                "description": "相手のメガネをつかんで投げ飛ばす。かけた相手が、顔とサングラスが一体化している一休だからこそ成立した技であろう。(松の字さんより)"
-            },
-            {
-                "move_name": "極太一本矢(ワンフレッチェ)信長",
-                "url": "https://hissatuwaza.kill.jp/setume/noumisop.htm#noumisop22",
-                "user": "ノブナガ",
-                "description": "相手のフルフェイスの\nヘルメットの中に爆竹を投下して、炸裂させる。"
-            },
-            {
-                "move_name": "千本ノック",
-                "url": "https://hissatuwaza.kill.jp/setume/noumisop.htm#noumisop35",
-                "user": "野球戦隊野球ナイン",
-                "description": "その名の通り数人でノックを行い、ボールを敵にぶつけて攻撃する。初戦では敵の怪人を苦しめたが、次の大戦では練習を積んだ怪人に全てキャッチされてしまった。(松の字さんより)"
-            },
-            {
-                "move_name": "茶ッパー",
-                "url": "https://hissatuwaza.kill.jp/setume/noumisop.htm#noumisop11",
-                "user": "静岡の秒殺魔神",
-                "description": "まず相手にお茶を勧める。相手がそれに口を付けた瞬間、アッパー気味の掌底で湯飲みを顔面に叩きつける。湯飲みがぶつかる衝撃と沸騰したお茶によるダメージで、今までこの技をくらって立ち上がってきたものはいないらしい。(松の字さんより)"
-            },
-            {
-                "move_name": "追掛蹴手反血(おいかけてぱんち)",
-                "url": "https://hissatuwaza.kill.jp/setume/noumisop.htm#noumisop7",
-                "user": "二代目一休",
-                "description": "単に相手をものすごい勢いで追いかけ、殴るだけの技。(松の字さんより)"
-            },
-            {
-                "move_name": "名古屋攻沈",
-                "url": "https://hissatuwaza.kill.jp/setume/noumisop.htm#noumisop12",
-                "user": "名古屋のジェネラル",
-                "description": "鶏肉をバカにされた怒りによって発動する技。自身が飼育している数十羽の鶏（おそらく名古屋コーチン）が、一斉に敵に襲いかかる。(松の字さんより)"
-            },
-            {
-                "move_name": "何か埋め込みクロー",
-                "url": "https://hissatuwaza.kill.jp/setume/noumisop.htm#noumisop19",
-                "user": "ビッグ・ザ・グレイ",
-                "description": "相手の額に、謎の機械を埋め込む反則技。(松の字さんより)"
-            },
-            {
-                "move_name": "臭う魔球",
-                "url": "https://hissatuwaza.kill.jp/setume/noumisop.htm#noumisop41",
-                "user": "パポン",
-                "description": "その名の通り、なぜか悪臭を放つ魔球。最近はむかついた打者に打たれることが多くなってきたらしい。（松の字さんより）"
-            },
-            {
-                "move_name": "二学期初めの身体検査攻撃",
-                "url": "https://hissatuwaza.kill.jp/setume/noumisop.htm#noumisop29",
-                "user": "マスク・ド・教師",
-                "description": "相手の髪の毛をむしり取って攻撃する。(松の字さんより)"
-            },
-            {
-                "move_name": "鼻フック背負い",
-                "url": "https://hissatuwaza.kill.jp/setume/noumisop.htm#noumisop39",
-                "user": "ビチロー",
-                "description": "現実の振り子打法とは異なり、バットの代わりに子供を持ち、さらにその子供がバットを持って打つ。「子供の方がすごいんじゃないか？」という指摘をされていたりもする。（松の字さんより）"
-            },
-            {
-                "move_name": "武落苦(ブラック)指突殺",
-                "url": "https://hissatuwaza.kill.jp/setume/noumisop.htm#noumisop2",
-                "user": "武落苦吉四六(ブラックきっちょむ)",
-                "description": "ひざかっくんをすさまじい破壊力に進化させた技。(松の字さんより)"
-            },
-            {
-                "move_name": "武落苦(ブラック)破脚蹴",
-                "url": "https://hissatuwaza.kill.jp/setume/noumisop.htm#noumisop2",
-                "user": "武落苦吉四六(ブラックきっちょむ)",
-                "description": "ひざかっくんをすさまじい破壊力に進化させた技。(松の字さんより)"
-            },
-            {
-                "move_name": "振り子打法",
-                "url": "https://hissatuwaza.kill.jp/setume/noumisop.htm#noumisop39",
-                "user": "ビチロー",
-                "description": "現実の振り子打法とは異なり、バットの代わりに子供を持ち、さらにその子供がバットを持って打つ。「子供の方がすごいんじゃないか？」という指摘をされていたりもする。（松の字さんより）"
-            },
-            {
-                "move_name": "桃太郎拳",
-                "url": "https://hissatuwaza.kill.jp/setume/noumisop.htm#noumisop38",
-                "user": "ノブナガ",
-                "description": "マラソンの高橋尚子のように、サングラスを投げ捨てて猛ダッシュする。この時Qちゃんつながりで、ちょんまげがオバケのQ太郎の髪型に変化している。\n(松の字さんより)"
-            },
-            {
-                "move_name": "誘導身砕流(みさいる)",
-                "url": "https://hissatuwaza.kill.jp/setume/noumisop.htm#noumisop8",
-                "user": "二代目一休",
-                "description": "地中に潜って相手を追いかけ、背後から飛び出して体当たりをくらわせる。(松の字さんより)"
+                "move_name": "マサトメカウンター",
+                "url": "https://hissatuwaza.kill.jp/setume/komasatome.htm#komasatome1",
+                "user": "マサトメ",
+                "description": "第13話初登場。\n渡部を倒すために編み出した必殺技で、\n要するにクロスカウンターであるが、自分も\nモロに相手のパンチをくらっている。"
             }
         ]
     },
@@ -696,80 +114,254 @@
         ]
     },
     {
-        "series_name": "ノーラと刻の工房",
-        "series_url": "https://hissatuwaza.kill.jp/setume/no-ra.htm",
+        "series_name": "NOEL",
+        "series_url": "https://hissatuwaza.kill.jp/setume/noel.htm",
         "moves": [
             {
-                "move_name": "ヴィーレアブロウ",
-                "url": "https://hissatuwaza.kill.jp/setume/no-ra.htm#no-ra1",
+                "move_name": "血ト瀬",
+                "url": "https://hissatuwaza.kill.jp/setume/noel.htm#noel1",
                 "user": "",
-                "description": ""
+                "description": "幻蝶抜刀術奥義。対象を刀で一刀両断にする。"
+            }
+        ]
+    },
+    {
+        "series_name": "NONすけ～る",
+        "series_url": "https://hissatuwaza.kill.jp/setume/nonsuke-ru.htm",
+        "moves": [
+            {
+                "move_name": "ロケットパンチ",
+                "url": "https://hissatuwaza.kill.jp/setume/nonsuke-ru.htm#nonsuke-ru1",
+                "user": "フィア",
+                "description": "第4話初登場。\n手の部分を有線によって伸ばして\nいろいろおこなう。"
+            }
+        ]
+    },
+    {
+        "series_name": "NORA！－ノラ－",
+        "series_url": "https://hissatuwaza.kill.jp/setume/nora.htm",
+        "moves": [
+            {
+                "move_name": "九頭水龍波",
+                "url": "https://hissatuwaza.kill.jp/setume/nora.htm#nora9",
+                "user": "ノラ",
+                "description": "水属魔法(アクアマギア)の一つ。たぶん双水龍波の強力版。(踝露伴さんより)"
             },
             {
-                "move_name": "オーロラブロウ",
-                "url": "https://hissatuwaza.kill.jp/setume/no-ra.htm#no-ra2",
-                "user": "ノーラ・ブランドル",
-                "description": "気をためて、剣の先から虹色に光るエネルギーの球を飛ばす属性攻撃。消費SP2。\n防御力が高い相手には有効ですが、コストが高いのが難点か。(真流KENさんより)"
+                "move_name": "乱水斬",
+                "url": "https://hissatuwaza.kill.jp/setume/nora.htm#nora8",
+                "user": "バリク",
+                "description": "水属魔法(アクアマギア)の一つ。チャクラム状の水の刃を飛ばして切り裂く。(踝露伴さんより)"
             },
             {
-                "move_name": "かすみ突き",
-                "url": "https://hissatuwaza.kill.jp/setume/no-ra.htm#no-ra10",
-                "user": "カルナ",
-                "description": "残像しか見えないほどの高速で、一気に鋭い突きを繰り出す大技。その衝撃は後ろに隠れている敵も全て貫くほどの、貫通型物理攻撃。消費SP2。\n縦に並んでる敵の場合には、いい感じですけども、単体ではコスト的に悪い感じですね。\n(真流KENさんより)"
+                "move_name": "五ぼう結界",
+                "url": "https://hissatuwaza.kill.jp/setume/nora.htm##nora29",
+                "user": "魔王軍の将軍たち",
+                "description": "魔王軍の将軍たちによる合体結界魔法。地、風、霊、水、火の5つの属性の結界魔法を敵を取り囲むような陣形で同時に使用することで発動。周囲に被害が出ないように敵の攻撃の余波を封じる。(ブラストさんより)"
             },
             {
-                "move_name": "スムカーシ",
-                "url": "https://hissatuwaza.kill.jp/setume/no-ra.htm#no-ra8",
-                "user": "メロウ",
-                "description": "杖に念を込めて大気の力を一点に集中させて殴ることで、本来の杖以外のエネルギーを敵に与える属性攻撃。消費SP1。\n同じ属性攻撃であるオーロラブロウより、コスト的には優秀。(真流KENさんより)"
+                "move_name": "先行透視",
+                "url": "https://hissatuwaza.kill.jp/setume/nora.htm#nora15",
+                "user": "プーソン",
+                "description": "霊属魔法(エーテルマギア)の一つ。「私はすぐそこに来たるべき未来を視ることができるのだよっっっ!」（byプーソン）(踝露伴さんより)"
             },
             {
-                "move_name": "ディセクティオ",
-                "url": "https://hissatuwaza.kill.jp/setume/no-ra.htm#no-ra12",
-                "user": "キト・ベールマン",
-                "description": "一撃一撃はそれほど強くないが、数多く連打で攻撃することで大きなダメージを出せるように考えた、キトの物理攻撃技。消費SP1。\nいわゆる「オラオラ」と連打でぶん殴る技。……無理すんな。\n(真流KENさんより)"
+                "move_name": "円柱水牢",
+                "url": "https://hissatuwaza.kill.jp/setume/nora.htm#nora25",
+                "user": "リヴァン",
+                "description": "リヴァンが使用した水属魔法の一つ。相手を水のつまった円形の牢屋に入れて溺死させようとするもの。(ブラストさんより)"
             },
             {
-                "move_name": "バラスタチャージ",
-                "url": "https://hissatuwaza.kill.jp/setume/no-ra.htm#no-ra3",
-                "user": "ノーラ・ブランドル、ケケ",
-                "description": "敵が何か良さそうな物を持っていそうな場所を狙って攻撃する物理攻撃技。消費SP1。\nこの技で首尾よく倒せれば、ドロップアイテムの獲得確立が上がりますが、とどめを刺せないと効果はなく、あくまでも確率上げるだけなので、おまけ程度に考えたほうがいいでしょうね。(真流KENさんより)"
+                "move_name": "双水龍波",
+                "url": "https://hissatuwaza.kill.jp/setume/nora.htm#nora7",
+                "user": "ノラなど",
+                "description": "水属魔法(アクアマギア)の一つ。二本の龍型の水流を放出する。(踝露伴さんより)"
             },
             {
-                "move_name": "ロイスタヴィーバ",
-                "url": "https://hissatuwaza.kill.jp/setume/no-ra.htm#no-ra5",
-                "user": "ルッツ・アレニウス",
-                "description": "敵の前でジャンプし、重力を利用して剣を振り、大ダメージを出す物理攻撃。消費SP1。\nルッツの攻撃技はこれしかないため、最後まで使える技でしょうかね。(真流KENさんより)"
+                "move_name": "地動裂衝破",
+                "url": "https://hissatuwaza.kill.jp/setume/nora.htm#nora12",
+                "user": "タイロン",
+                "description": "地属魔法(テラマギア)の一つ。地割れを起こす。タイロンはこのあと地割れを狭くして中にいるノラと一磨を押しつぶそうとするが、それもこの魔法の内容のうちかは不明。\nなお余談だが、本誌掲載時はこれを放つ前のタイロンの「地属魔法(テラマギア)」のセリフが抜けていたが、コミックスでは無事修正された。(踝露伴さんより)"
             },
             {
-                "move_name": "癒しの手",
-                "url": "https://hissatuwaza.kill.jp/setume/no-ra.htm#no-ra9",
-                "user": "メロウ",
-                "description": "患部に手を当てることで、不思議な力で体力を回復させることが出来る、メロウの得意技。消費SP2。\n回復量はレベル依存で、少しずつ成長します。(真流KENさんより)"
+                "move_name": "大地の揺り籠",
+                "url": "https://hissatuwaza.kill.jp/setume/nora.htm#nora18",
+                "user": "ノラ",
+                "description": "第1話に名前のみ登場した、風属魔法(アネモスマギア)のひとつ。しかしノラは強引に一磨と使い魔契約を結ばされ、彼の許可なしには呪文が使えない状態のため不発に終わる。(踝露伴さんより)"
             },
             {
-                "move_name": "栄光の手",
-                "url": "https://hissatuwaza.kill.jp/setume/no-ra.htm#no-ra4",
-                "user": "ケケ",
-                "description": "敵が持っている物を、さっとかすめ取る技。消費SP2。\nいわゆるアイテムを盗む技ですけど、成功確立はやや低めっぽいです。\n(真流KENさんより)"
+                "move_name": "封身解放",
+                "url": "https://hissatuwaza.kill.jp/setume/nora.htm#nora3",
+                "user": "色々な悪魔",
+                "description": "霊属魔法(エーテルマギア)の一つ。魔力の流出を抑えられる封身状態（人型）からもとの姿に戻る。ちなみにノラの正体はケルベロスで、この姿になると口から光線（?）が吐けたりもする。(踝露伴さんより)"
             },
             {
-                "move_name": "気合いため",
-                "url": "https://hissatuwaza.kill.jp/setume/no-ra.htm#no-ra11",
-                "user": "カルナ",
-                "description": "一旦、ぐっと力を蓄えて次の攻撃時にその力を一気に解放して攻撃する。消費SP1。\n使用後の次のターン時には物理攻撃が3倍になるので、その次はかすみ突き……といくところですけど、強化された攻撃力は、物理攻撃系のアイテムにも適用されるので、激堅黒パンなどを投げつければ、範囲的にすごいダメージが出たりします。\n(真流KENさんより)"
+                "move_name": "従蛇の連牙",
+                "url": "https://hissatuwaza.kill.jp/setume/nora.htm#nora14",
+                "user": "バリク",
+                "description": "水属魔法(アクアマギア)の一つ。おそらく水でできていると思われる蛇を大量に放出する。(踝露伴さんより)"
             },
             {
-                "move_name": "最後の力",
-                "url": "https://hissatuwaza.kill.jp/setume/no-ra.htm#no-ra6",
-                "user": "ルッツ・アレニウス",
-                "description": "戦闘不能になるほどのダメージを負っても、根性で耐えしのぐ、ルッツの気合いがなせる技。\nHPが0になった時点で、一度だけHPが1の状態で復活。いわば某ファイナルRPGでの自己リレイズか。\n説明にあるように、すぐに回復が必要です。(真流KENさんより)"
+                "move_name": "必殺☆魔流(ストリーム)合体",
+                "url": "https://hissatuwaza.kill.jp/setume/nora.htm#nora13",
+                "user": "キングジェリー",
+                "description": "他の悪魔の魔力の流れに同化し、その悪魔を操ってしまう。(踝露伴さんより)"
             },
             {
-                "move_name": "真なる目",
-                "url": "https://hissatuwaza.kill.jp/setume/no-ra.htm#no-ra7",
-                "user": "シルカ・ビョルン",
-                "description": "じっと相手の姿を観察し、弱点と思われる場所を一気に突く物理攻撃で、必ずクリティカルヒットを繰り出せる技。消費SP1。\nコスト的に優秀かつ、パッシブ系の「ピュヒミュス（不死の生物に対して強力な攻撃力を持つ聖なる加護。シルカは常にこの加護に包まれている）」の効果のおかげで、対ドルイド系などでは絶大な効果を発揮します。(真流KENさんより)"
+                "move_name": "水晶鎖牢",
+                "url": "https://hissatuwaza.kill.jp/setume/nora.htm##nora27",
+                "user": "カイン",
+                "description": "地属魔法のひとつ。相手の周囲を取り囲むように地面から水晶の柱を複数出現させ、その中から鎖を飛ばして敵の動きを封じ込める。(ブラストさんより)"
+            },
+            {
+                "move_name": "氷光凍撃弾",
+                "url": "https://hissatuwaza.kill.jp/setume/nora.htm#nora10",
+                "user": "ノラなど",
+                "description": "水属魔法(アクアマギア)の一つ。おそらく吹雪を収束して巨大な弾として放つと思われる。(踝露伴さんより)"
+            },
+            {
+                "move_name": "氷柱包囲撃",
+                "url": "https://hissatuwaza.kill.jp/setume/nora.htm#nora21",
+                "user": "リヴァン",
+                "description": "水属魔法(アクアマギア)の一つ。ツララを多数出現させて操り、敵を突き刺す。(踝露伴さんより)"
+            },
+            {
+                "move_name": "消魔防壁",
+                "url": "https://hissatuwaza.kill.jp/setume/nora.htm##nora30",
+                "user": "カイン",
+                "description": "霊属魔法の中の防御魔法。味方を敵の攻撃から守るバリアを張る。(ブラストさんより)"
+            },
+            {
+                "move_name": "灼熱旋風",
+                "url": "https://hissatuwaza.kill.jp/setume/nora.htm#nora4",
+                "user": "ノラなど",
+                "description": "火属魔法(イグニスマギア)の一つ。相手を炎に包み込んでダメージを与える。(踝露伴さんより)"
+            },
+            {
+                "move_name": "炎水龍雷塊砲撃",
+                "url": "https://hissatuwaza.kill.jp/setume/nora.htm#nora31",
+                "user": "レナード＆メルフィア＆リヴァン",
+                "description": "地、水、火の3属性の合体攻撃魔法。天空から炎と水の二匹の龍が敵めがけて降ってきて、更に地面からは光の柱が出現し、その中を岩が天めがけて敵の足元から上昇していくというもの。(ブラストさんより)"
+            },
+            {
+                "move_name": "燐火誘導弾",
+                "url": "https://hissatuwaza.kill.jp/setume/nora.htm#nora22",
+                "user": "メルフィア",
+                "description": "火属魔法(イグニスマギア)の一つ。周囲に火の弾を多数出現させ、相手めがけて放つ。連射系の宿命か、一発ごとの威力は割と低い模様。(踝露伴さんより)"
+            },
+            {
+                "move_name": "爆炎の牙",
+                "url": "https://hissatuwaza.kill.jp/setume/nora.htm#nora2",
+                "user": "ノラなど",
+                "description": "火属魔法(イグニスマギア)の一つ。ノラが（多分）最も多用している攻撃魔法。そのまんま牙型の爆炎を飛ばす。(踝露伴さんより)"
+            },
+            {
+                "move_name": "爆破",
+                "url": "https://hissatuwaza.kill.jp/setume/nora.htm#nora3",
+                "user": "色々な悪魔",
+                "description": "霊属魔法(エーテルマギア)の一つ。魔力の流出を抑えられる封身状態（人型）からもとの姿に戻る。ちなみにノラの正体はケルベロスで、この姿になると口から光線（?）が吐けたりもする。(踝露伴さんより)"
+            },
+            {
+                "move_name": "疾風（しっぷう）迅雷塊箭",
+                "url": "https://hissatuwaza.kill.jp/setume/nora.htm##nora28",
+                "user": "フォール、ノラ",
+                "description": "ノラとフォールが使用できる風属魔法のひとつ。見た目は若干異なり、フォールが使用するものは闇の球から黒い雷を含んだ巨大な矢を放つというもので、ノラが使用するものは白い雷を含んだ巨大な矢になる。(ブラストさんより)"
+            },
+            {
+                "move_name": "目潰し攻撃",
+                "url": "https://hissatuwaza.kill.jp/setume/nora.htm#nora16",
+                "user": "ノラ",
+                "description": "第7話で使った。要は相手に砂をぶつけるだけなのだが、一磨にはあっさりかわされリヴァンには全く効かなかったりと、役にはたたなかった。(踝露伴さんより)"
+            },
+            {
+                "move_name": "真空の刃",
+                "url": "https://hissatuwaza.kill.jp/setume/nora.htm#nora18",
+                "user": "ノラ",
+                "description": "第1話に名前のみ登場した、風属魔法(アネモスマギア)のひとつ。しかしノラは強引に一磨と使い魔契約を結ばされ、彼の許可なしには呪文が使えない状態のため不発に終わる。(踝露伴さんより)"
+            },
+            {
+                "move_name": "真空包障壁",
+                "url": "https://hissatuwaza.kill.jp/setume/nora.htm#nora26",
+                "user": "バジー",
+                "description": "バジーが使用した風属魔法。手から周囲にいる味方を守るバリアを張るというもの。(ブラストさんより)"
+            },
+            {
+                "move_name": "真空矢連放射（しんくうしれんほうしゃ）",
+                "url": "https://hissatuwaza.kill.jp/setume/nora.htm#nora19",
+                "user": "フォール",
+                "description": "風属魔法(アネモスマギア)のひとつ。多数の強力な真空の矢を周囲全方向に飛ばす。\n名前と内容からすると、第1話でノラが使おうとした「真空の刃」の上位呪文なのかもしれない。(踝露伴さんより)"
+            },
+            {
+                "move_name": "空間結界",
+                "url": "https://hissatuwaza.kill.jp/setume/nora.htm#nora6",
+                "user": "アスト",
+                "description": "霊属魔法(エーテルマギア)の一つ。一時的に別の空間を作り、対象を閉じ込める。(踝露伴さんより)"
+            },
+            {
+                "move_name": "裂破の指先",
+                "url": "https://hissatuwaza.kill.jp/setume/nora.htm#nora23",
+                "user": "ニックス",
+                "description": "火属魔法(イグニスマギア)の一つ。触れた部分に爆発を起こす。(踝露伴さんより)"
+            },
+            {
+                "move_name": "触式爆炎導",
+                "url": "https://hissatuwaza.kill.jp/setume/nora.htm#nora24",
+                "user": "ニックス",
+                "description": "火属魔法(イグニスマギア)の一つ。物にまとわせる魔法で、まとわせている間はその物に触れると爆発が起こる。(踝露伴さんより)"
+            },
+            {
+                "move_name": "轟雷閃",
+                "url": "https://hissatuwaza.kill.jp/setume/nora.htm#nora5",
+                "user": "ノラ",
+                "description": "風属魔法(アネモスマギア)の一つ。雷を落とす。(踝露伴さんより)"
+            },
+            {
+                "move_name": "門番の咆哮",
+                "url": "https://hissatuwaza.kill.jp/setume/nora.htm#nora",
+                "user": "NORA",
+                "description": "読み切り漫画の最後のとどめとして使われた技です。\n火、水、風、地、霊の五属性をフル活用して相手を封印する技。"
+            },
+            {
+                "move_name": "風神の息吹",
+                "url": "https://hissatuwaza.kill.jp/setume/nora.htm#nora11",
+                "user": "ケイニーなど",
+                "description": "風属魔法(アネモスマギア)の一つ。突風を起こす。相手を吹き飛ばしたり、地割れから脱出したりと結構応用が利く。(踝露伴さんより)"
+            },
+            {
+                "move_name": "黒炎の翼",
+                "url": "https://hissatuwaza.kill.jp/setume/nora.htm#nora20",
+                "user": "ノラ",
+                "description": "火属魔法(イグニスマギア)のひとつ。翼型の黒い炎を打ち出す。おそらくこれの上位呪文が「黒炎の翼竜」なのではないかと思われる。(踝露伴さんより)"
+            },
+            {
+                "move_name": "黒炎の翼竜",
+                "url": "https://hissatuwaza.kill.jp/setume/nora.htm#nora17",
+                "user": "ネル、ノラ",
+                "description": "火属魔法の一つ。黒い炎で翼竜を作りだし、相手を焼き尽くす魔法。"
+            },
+            {
+                "move_name": "黒針縛牢",
+                "url": "https://hissatuwaza.kill.jp/setume/nora.htm#nora32",
+                "user": "フォール",
+                "description": "フォールの使用する攻撃魔法。周囲にいる全ての敵を闇の針で串刺しにしてしまう逃げ場の全くない攻撃。(ブラストさんより)"
+            }
+        ]
+    },
+    {
+        "series_name": "Notes",
+        "series_url": "https://hissatuwaza.kill.jp/setume/notes.htm",
+        "moves": [
+            {
+                "move_name": "ブラック・バレル",
+                "url": "https://hissatuwaza.kill.jp/setume/notes.htm#notes1",
+                "user": "銃神（GODO)",
+                "description": "「月姫」の設定資料集、「月姫読本」掲載の小説・「Notes．」より。\nシオンのブラックバレル（レプリカ）の本家本元。別名、「Longinus」。\n荒廃した未来の世界に充満している物質「宇宙塵（通称・〝ジン〟）」を殺す能力があるが、\n未来においてジンを体に含まない生物はいないため、この銃を扱うことが出来るのは、世界で唯一生き残った、\nジンを体に含まない「純血の人間」たる「銃神」のみである。攻撃対象になる生命種が強大な力を持っていれば持っているほど\n（即ち、ジンを体に含んでいれば含んでいるほど）、殺傷能力は飛躍する。アルティミットワン・「タイプ・ヴーナス」、\n同じく「タイプ・サターン」を撃墜した。\n(柳島英志さんより)"
+            },
+            {
+                "move_name": "魔剣・斬撃皇帝",
+                "url": "https://hissatuwaza.kill.jp/setume/notes.htm#notes2",
+                "user": "騎士エデム",
+                "description": "「月姫」の設定資料集、「月姫読本」掲載の小説・「Notes．」より。\n「魔剣」とは、荒廃した未来の世界において、ジン（「ブラックバレル」の項を参照）を特に多く体内に含んで生まれてきた赤子が、自分の体から分離させて生み落とす、ジンの結晶。中でも、実戦に投入できる程の威力を誇る魔剣を持つ者が「騎士」と呼ばれる。尚、一人の騎士につき、魔剣は一振り。その性能は、もはや「武器」というより「兵器」の次元である。\n　騎士エデムの斬撃皇帝は、各天体の生物の最強種・〝アルティミット・ワン〟の内の一体であり、全長数千メートル、更に全身はガスという出鱈目な形態を持っていた「タイプ・ジュピター」を、こともあろうに一刀両断してしまう（「我に断てぬもの無し！」）。直後にタイプ・ジュピターの核が暴走して爆発し、大陸一つを焼き尽くしてしまったのだが・・・南無。因みに、この時エデムはどうなったのかは不明。(柳島英志さんより)"
             }
         ]
     },
@@ -814,16 +406,16 @@
                 "description": "第5巻初登場。ヨシダ流調教法口伝表技。\n牛がお辞儀してるように見えるという。\n一種の自己暗示によって精神と肉体と家畜のリミッターを外して\n限界を超えたガイアを牛に注入することで発動が可能らしい。\nただ壮大な前振りの割に地味な技と言われている。\n「我は無敵なり 我が牛技にかなうものなし 我が調教は無敵なり」"
             },
             {
+                "move_name": "橋渡し",
+                "url": "https://hissatuwaza.kill.jp/setume/nourin.htm#nourin9",
+                "user": "姉小路千草",
+                "description": "第5巻初登場。佐野民三郎が考案した高等調教技。\n牛を細い板の橋の上を渡らせるというもの。"
+            },
+            {
                 "move_name": "残像三分身",
                 "url": "https://hissatuwaza.kill.jp/setume/nourin.htm#nourin4",
                 "user": "ポチ",
                 "description": "第4巻初登場。美濃柴犬に古くから伝わる秘技で、\n質量を持った分身を2体生み出す。\n質量を持った分身の秘密は生え変わる毛を利用した体毛剥離現象となっている。\nおそらくは銀牙-流れ星　銀-のパロディ。"
-            },
-            {
-                "move_name": "絶・婚姻抜刀牙",
-                "url": "https://hissatuwaza.kill.jp/setume/nourin.htm#nourin6",
-                "user": "ポチ",
-                "description": "第4巻初登場。\nポチの「絶・天狼抜刀牙」に対抗して使用したもの。\n結婚に対しての恨み辛みのパワーによって「絶・天狼抜刀牙」の数倍のパワーを見せている。\nおそらくは銀牙-流れ星　銀-のパロディ。"
             },
             {
                 "move_name": "絶・天狼抜刀牙",
@@ -832,58 +424,10 @@
                 "description": "第4巻初登場。\n車輪のように回転しながらすれ違いざまに牙で斬り裂いて攻撃をする。\n自身の体にも負担がかかるという大技。\nおそらくは銀牙-流れ星　銀-のパロディ。"
             },
             {
-                "move_name": "橋渡し",
-                "url": "https://hissatuwaza.kill.jp/setume/nourin.htm#nourin9",
-                "user": "姉小路千草",
-                "description": "第5巻初登場。佐野民三郎が考案した高等調教技。\n牛を細い板の橋の上を渡らせるというもの。"
-            }
-        ]
-    },
-    {
-        "series_name": "NOEL",
-        "series_url": "https://hissatuwaza.kill.jp/setume/noel.htm",
-        "moves": [
-            {
-                "move_name": "血ト瀬",
-                "url": "https://hissatuwaza.kill.jp/setume/noel.htm#noel1",
-                "user": "",
-                "description": "幻蝶抜刀術奥義。対象を刀で一刀両断にする。"
-            }
-        ]
-    },
-    {
-        "series_name": "ノケモノたちの夜",
-        "series_url": "https://hissatuwaza.kill.jp/setume/nokemono.htm",
-        "moves": [
-            {
-                "move_name": "バーニング猫パンチ",
-                "url": "https://hissatuwaza.kill.jp/setume/nokemono.htm#nokemono1",
-                "user": "マルバス",
-                "description": "第32話初登場。\n拳の形をした炎を飛ばして攻撃をする必殺技。"
-            },
-            {
-                "move_name": "惨刃雨(カラミティレイン)",
-                "url": "https://hissatuwaza.kill.jp/setume/nokemono.htm#nokemono3",
-                "user": "ダンダリオン",
-                "description": "第60話初登場。空中から\n大量の刃を降らせて攻撃をする必殺技。"
-            },
-            {
-                "move_name": "士気操作(モラールコントロール)",
-                "url": "https://hissatuwaza.kill.jp/setume/nokemono.htm#nokemono2",
-                "user": "ダンダリオン",
-                "description": "第60話初登場。\n周囲の味方の能力を大幅に上昇させ、\n敵の戦意をダウンさせる能力。\n強者であれば敵に対しての効果は薄い。"
-            }
-        ]
-    },
-    {
-        "series_name": "ノゾ×キミ",
-        "series_url": "https://hissatuwaza.kill.jp/setume/nozokimi.htm",
-        "moves": [
-            {
-                "move_name": "岩清水アタック",
-                "url": "https://hissatuwaza.kill.jp/setume/nozokimi.htm#nozokimi1",
-                "user": "岩清水ミヤコ",
-                "description": "第40話初登場。\n足元に来たサッカーボールをシュートする。\n運動神経が鈍いからか、クリーンヒットしなかった。"
+                "move_name": "絶・婚姻抜刀牙",
+                "url": "https://hissatuwaza.kill.jp/setume/nourin.htm#nourin6",
+                "user": "ポチ",
+                "description": "第4巻初登場。\nポチの「絶・天狼抜刀牙」に対抗して使用したもの。\n結婚に対しての恨み辛みのパワーによって「絶・天狼抜刀牙」の数倍のパワーを見せている。\nおそらくは銀牙-流れ星　銀-のパロディ。"
             }
         ]
     },
@@ -954,84 +498,6 @@
         ]
     },
     {
-        "series_name": "K.O.マサトメ",
-        "series_url": "https://hissatuwaza.kill.jp/setume/komasatome.htm",
-        "moves": [
-            {
-                "move_name": "マサトメカウンター",
-                "url": "https://hissatuwaza.kill.jp/setume/komasatome.htm#komasatome1",
-                "user": "マサトメ",
-                "description": "第13話初登場。\n渡部を倒すために編み出した必殺技で、\n要するにクロスカウンターであるが、自分も\nモロに相手のパンチをくらっている。"
-            }
-        ]
-    },
-    {
-        "series_name": "ノックエッジ",
-        "series_url": "https://hissatuwaza.kill.jp/setume/nocke.htm",
-        "moves": [
-            {
-                "move_name": "大葉刈",
-                "url": "https://hissatuwaza.kill.jp/setume/nocke.htm#nocke1",
-                "user": "弥猛",
-                "description": "神波流の技で、\n相手の攻撃を片腕でさばいて、懐に入りつつ\nもう片方の腕で肘鉄を繰り出す。"
-            }
-        ]
-    },
-    {
-        "series_name": "ノットライヴス",
-        "series_url": "https://hissatuwaza.kill.jp/setume/notl.htm",
-        "moves": [
-            {
-                "move_name": "ガベル",
-                "url": "https://hissatuwaza.kill.jp/setume/notl.htm#notl7",
-                "user": "",
-                "description": "マスタースキルの1つ。\n自身が受けたダメージを射程内にいる相手にカウンターとして攻撃をすることが出来る。\n空間を超越して攻撃が可能。"
-            },
-            {
-                "move_name": "チューニングインパクト",
-                "url": "https://hissatuwaza.kill.jp/setume/notl.htm#notl2",
-                "user": "MAZE",
-                "description": "矛のような武器によって対象の頭部を直接突くことによって\n先端から発する振動によって頭部破壊をおこなう必殺技。"
-            },
-            {
-                "move_name": "ハイド",
-                "url": "https://hissatuwaza.kill.jp/setume/notl.htm#notl5",
-                "user": "雨宮",
-                "description": "姿を消したかのようにすることが出来るスキル。"
-            },
-            {
-                "move_name": "バルーン",
-                "url": "https://hissatuwaza.kill.jp/setume/notl.htm#notl1",
-                "user": "",
-                "description": "対象の重力を低くすることが出来るスキル。"
-            },
-            {
-                "move_name": "マグネット",
-                "url": "https://hissatuwaza.kill.jp/setume/notl.htm#notl4",
-                "user": "MAZEなど",
-                "description": "磁力の特性のようなものを発揮させることが出来るスキル。"
-            },
-            {
-                "move_name": "ライトニングラプター",
-                "url": "https://hissatuwaza.kill.jp/setume/notl.htm#notl6",
-                "user": "雨宮",
-                "description": "落雷を利用して剣で、その雷の一部を飛ばして攻撃をする。\nちょっとでも雷に触れれば自身の方にダメージが有る。"
-            },
-            {
-                "move_name": "皇帝の親指(サムズダウン)",
-                "url": "https://hissatuwaza.kill.jp/setume/notl.htm#notl8",
-                "user": "",
-                "description": "衛星からビームを放つ攻撃。\n発動には座標を指定した上に、指の派手な動作が必要。"
-            },
-            {
-                "move_name": "不協和移動術(ディスコード・モーション)",
-                "url": "https://hissatuwaza.kill.jp/setume/notl.htm#notl3",
-                "user": "MAZE",
-                "description": "人格を次々に切り替えることによって、\n不規則な動きをおこない相手に行動を読まさないという技。"
-            }
-        ]
-    },
-    {
         "series_name": "ののことのらと",
         "series_url": "https://hissatuwaza.kill.jp/setume/nonoko.htm",
         "moves": [
@@ -1090,10 +556,10 @@
         "series_url": "https://hissatuwaza.kill.jp/setume/nonomi.htm",
         "moves": [
             {
-                "move_name": "隠れ身の術",
-                "url": "https://hissatuwaza.kill.jp/setume/nonomi.htm#nonomi2",
+                "move_name": "水雲の術",
+                "url": "https://hissatuwaza.kill.jp/setume/nonomi.htm#nonomi1",
                 "user": "あやめ",
-                "description": "壁と同色の布を使って、その身を隠す。"
+                "description": "公園のボートで逃げた犯人に近づくために使用。\n水面を浮きながら歩く。"
             },
             {
                 "move_name": "消え去りの術",
@@ -1102,124 +568,16 @@
                 "description": "その名の通りその場から消えてしまう。"
             },
             {
+                "move_name": "隠れ身の術",
+                "url": "https://hissatuwaza.kill.jp/setume/nonomi.htm#nonomi2",
+                "user": "あやめ",
+                "description": "壁と同色の布を使って、その身を隠す。"
+            },
+            {
                 "move_name": "高飛びの術",
                 "url": "https://hissatuwaza.kill.jp/setume/nonomi.htm#nonomi3",
                 "user": "あやめ",
                 "description": "高くジャンプして、\n屋根の上などを高速で移動する。"
-            },
-            {
-                "move_name": "水雲の術",
-                "url": "https://hissatuwaza.kill.jp/setume/nonomi.htm#nonomi1",
-                "user": "あやめ",
-                "description": "公園のボートで逃げた犯人に近づくために使用。\n水面を浮きながら歩く。"
-            }
-        ]
-    },
-    {
-        "series_name": "野原ひろし 昼メシの流儀",
-        "series_url": "https://hissatuwaza.kill.jp/setume/hirosi.htm",
-        "moves": [
-            {
-                "move_name": "マヨビーム",
-                "url": "https://hissatuwaza.kill.jp/setume/hirosi.htm#hirosi3",
-                "user": "野原ひろし",
-                "description": "第12話初登場。唐揚げ定食の残り1個の唐揚げに対してイメージとして繰り出された攻撃。\n容器から勢い良くマヨネーズを発射する。"
-            },
-            {
-                "move_name": "醤油シャワー",
-                "url": "https://hissatuwaza.kill.jp/setume/hirosi.htm#hirosi1",
-                "user": "野原ひろし",
-                "description": "第12話初登場。唐揚げ定食の残り1個の唐揚げに対してイメージとして繰り出された攻撃。\n醤油を勢い良く発射する。"
-            },
-            {
-                "move_name": "唐辛子ジェット",
-                "url": "https://hissatuwaza.kill.jp/setume/hirosi.htm#hirosi2",
-                "user": "野原ひろし",
-                "description": "第12話初登場。唐揚げ定食の残り1個の唐揚げに対してイメージとして繰り出された攻撃。\n唐辛子の容器から勢い良く中身を噴射する。"
-            }
-        ]
-    },
-    {
-        "series_name": "野武士",
-        "series_url": "https://hissatuwaza.kill.jp/setume/nobusi.htm",
-        "moves": [
-            {
-                "move_name": "ちなみシールド",
-                "url": "https://hissatuwaza.kill.jp/setume/nobusi.htm#nobusi1",
-                "user": "三枝葉月",
-                "description": "ホワイトのヒロインの一人葉月が杉崇千波を犠牲にして発動する防御技で第22回に登場。まどかをわざと怒らせて殴りかかって来た所を、ちなみの顔面を盾にして防いだというもの。 (ブラストさんより)"
-            },
-            {
-                "move_name": "真空つっこみ",
-                "url": "https://hissatuwaza.kill.jp/setume/nobusi.htm#nobusi2",
-                "user": "仁科まどか",
-                "description": "ねこねこソフト第一作目ホワイトのヒロインが一人まどかのつっこみ。葉月にシカトされた腹いせに葉月以外の他のヒロインをぼこぼこにするというもの。みかなは髪の毛をぶち抜かれ、めぐみは顔を地面に叩きつけられ、いづみにいたっては頭から地面に埋められました。(ブラストさんより)"
-            }
-        ]
-    },
-    {
-        "series_name": "信長の忍び",
-        "series_url": "https://hissatuwaza.kill.jp/setume/nobusino.htm",
-        "moves": [
-            {
-                "move_name": "ぐるぐる斬り",
-                "url": "https://hissatuwaza.kill.jp/setume/nobusino.htm#nobusino2",
-                "user": "千鳥",
-                "description": "第143話初登場。\n相手の前で片手のひらをグルグルと回すことによって、\n相手の目を回させる。冗談のような技だが相手には効果があった。"
-            },
-            {
-                "move_name": "大太刀大旋風",
-                "url": "https://hissatuwaza.kill.jp/setume/nobusino.htm#nobusino1",
-                "user": "真柄直隆",
-                "description": "第66話初登場。煙を取り払うために使用した技で、\n大太刀を独楽のように回転しながら振り回す技。"
-            },
-            {
-                "move_name": "変わり身の術",
-                "url": "https://hissatuwaza.kill.jp/setume/nobusino.htm#nobusino6",
-                "user": "佐久間信盛",
-                "description": "第173話初登場。\n攻撃をくらったと見せかけ、他の者と代わって\nダメージを受けてもらう奥義。"
-            },
-            {
-                "move_name": "宙返り蹴鞠弾",
-                "url": "https://hissatuwaza.kill.jp/setume/nobusino.htm#nobusino8",
-                "user": "千鳥",
-                "description": "第208話初登場。\nオーバーヘッドキックするようにして鞠を蹴飛ばす。"
-            },
-            {
-                "move_name": "忍法 一夜城の術",
-                "url": "https://hissatuwaza.kill.jp/setume/nobusino.htm#nobusino3",
-                "user": "千鳥",
-                "description": "第20話初登場。秀吉の想像内で使用された忍法。\n巻物を咥えて、一瞬にして城を生み出してしまう。"
-            },
-            {
-                "move_name": "忍法 埋火(うずめび)",
-                "url": "https://hissatuwaza.kill.jp/setume/nobusino.htm#nobusino7",
-                "user": "助蔵",
-                "description": "第190話初登場。\nいわゆる地雷のようなものを設置して相手に踏ませて爆破する忍法。"
-            },
-            {
-                "move_name": "物真似の術",
-                "url": "https://hissatuwaza.kill.jp/setume/nobusino.htm#nobusino4",
-                "user": "千鳥",
-                "description": "第29話初登場。動物の鳴きマネをする術。\n忍び込んだ際に敵に見つかりそうになった際に使用したりする。"
-            },
-            {
-                "move_name": "龍月円舞",
-                "url": "https://hissatuwaza.kill.jp/setume/nobusino.htm#nobusino5",
-                "user": "斎藤龍興",
-                "description": "第168話初登場。\n一太刀で複数の相手を切り裂いた秘剣。"
-            }
-        ]
-    },
-    {
-        "series_name": "ノブナガン",
-        "series_url": "https://hissatuwaza.kill.jp/setume/nobunagan.htm",
-        "moves": [
-            {
-                "move_name": "ノブナガン三段撃ち",
-                "url": "https://hissatuwaza.kill.jp/setume/nobunagan.htm#nobunagan1",
-                "user": "小椋しお",
-                "description": "第2話初登場。\n装着したAUウェポンのノブナガンからもう片方の手で銃を取り出し、\nさらに展開させた仮面といった具合に、同時に三方向に射撃を\nおこなうことが出来る必殺技。"
             }
         ]
     },
@@ -1234,12 +592,6 @@
                 "description": "その10｢しりマン｣で登場。自分の尻で｢み｣を描く技で、この｢み｣はみかんの｢み｣で使ったり、｢なにかをみっぺいする｣の｢み｣で使えたりして凄く便利らしい。(小浜太介さんより)"
             },
             {
-                "move_name": "ナイロンパンチ",
-                "url": "https://hissatuwaza.kill.jp/setume/nobumino.htm#nobumino5",
-                "user": "なぞマン",
-                "description": "その1｢なぞマン｣で登場。｢ねーねー なぞマンって ひっさつわざとか ないの？｣と聞かれたなぞマンが回答した技で、左手でパンチを繰り出す(何故ナイロンなのかは不明)。(小浜太介さんより)"
-            },
-            {
                 "move_name": "にんぽうしゅりけんがお",
                 "url": "https://hissatuwaza.kill.jp/setume/nobumino.htm#nobumino7",
                 "user": "にんぽうしゅりけんがおの使い手",
@@ -1250,6 +602,12 @@
                 "url": "https://hissatuwaza.kill.jp/setume/nobumino.htm#nobumino8",
                 "user": "ねこなでパンチの使い手",
                 "description": "その3のおまけページの｢今月のひっさつわざ｣で登場。1枚絵なので詳細は不明だが、猫の様に顔を撫でてからパンチを繰り出す物と思われる。(小浜太介さんより)"
+            },
+            {
+                "move_name": "ナイロンパンチ",
+                "url": "https://hissatuwaza.kill.jp/setume/nobumino.htm#nobumino5",
+                "user": "なぞマン",
+                "description": "その1｢なぞマン｣で登場。｢ねーねー なぞマンって ひっさつわざとか ないの？｣と聞かれたなぞマンが回答した技で、左手でパンチを繰り出す(何故ナイロンなのかは不明)。(小浜太介さんより)"
             },
             {
                 "move_name": "ハンサムアイ",
@@ -1330,226 +688,16 @@
                 "description": "第3話初登場。コーナーポストから高く飛び上がって、\nクルクルと縦に回転してからボディプレスを\n繰り出す。"
             },
             {
-                "move_name": "積年の恨みアタック",
-                "url": "https://hissatuwaza.kill.jp/setume/nomurari.htm#nomurari5",
-                "user": "青井海音",
-                "description": "バシイィィという効果音がでるほど\n相手をはたく。"
-            },
-            {
                 "move_name": "神輿落とし",
                 "url": "https://hissatuwaza.kill.jp/setume/nomurari.htm#nomurari3",
                 "user": "ルイーザ＆バレンティナ",
                 "description": "平均身長が2m近い二人が相手を\n両手で高く持ち上げてから、さらに高く投げ飛ばして\n地面へと叩きつける。"
-            }
-        ]
-    },
-    {
-        "series_name": "NORA！－ノラ－",
-        "series_url": "https://hissatuwaza.kill.jp/setume/nora.htm",
-        "moves": [
-            {
-                "move_name": "炎水龍雷塊砲撃",
-                "url": "https://hissatuwaza.kill.jp/setume/nora.htm#nora31",
-                "user": "レナード＆メルフィア＆リヴァン",
-                "description": "地、水、火の3属性の合体攻撃魔法。天空から炎と水の二匹の龍が敵めがけて降ってきて、更に地面からは光の柱が出現し、その中を岩が天めがけて敵の足元から上昇していくというもの。(ブラストさんより)"
             },
             {
-                "move_name": "円柱水牢",
-                "url": "https://hissatuwaza.kill.jp/setume/nora.htm#nora25",
-                "user": "リヴァン",
-                "description": "リヴァンが使用した水属魔法の一つ。相手を水のつまった円形の牢屋に入れて溺死させようとするもの。(ブラストさんより)"
-            },
-            {
-                "move_name": "空間結界",
-                "url": "https://hissatuwaza.kill.jp/setume/nora.htm#nora6",
-                "user": "アスト",
-                "description": "霊属魔法(エーテルマギア)の一つ。一時的に別の空間を作り、対象を閉じ込める。(踝露伴さんより)"
-            },
-            {
-                "move_name": "九頭水龍波",
-                "url": "https://hissatuwaza.kill.jp/setume/nora.htm#nora9",
-                "user": "ノラ",
-                "description": "水属魔法(アクアマギア)の一つ。たぶん双水龍波の強力版。(踝露伴さんより)"
-            },
-            {
-                "move_name": "轟雷閃",
-                "url": "https://hissatuwaza.kill.jp/setume/nora.htm#nora5",
-                "user": "ノラ",
-                "description": "風属魔法(アネモスマギア)の一つ。雷を落とす。(踝露伴さんより)"
-            },
-            {
-                "move_name": "黒炎の翼",
-                "url": "https://hissatuwaza.kill.jp/setume/nora.htm#nora20",
-                "user": "ノラ",
-                "description": "火属魔法(イグニスマギア)のひとつ。翼型の黒い炎を打ち出す。おそらくこれの上位呪文が「黒炎の翼竜」なのではないかと思われる。(踝露伴さんより)"
-            },
-            {
-                "move_name": "黒炎の翼竜",
-                "url": "https://hissatuwaza.kill.jp/setume/nora.htm#nora17",
-                "user": "ネル、ノラ",
-                "description": "火属魔法の一つ。黒い炎で翼竜を作りだし、相手を焼き尽くす魔法。"
-            },
-            {
-                "move_name": "黒針縛牢",
-                "url": "https://hissatuwaza.kill.jp/setume/nora.htm#nora32",
-                "user": "フォール",
-                "description": "フォールの使用する攻撃魔法。周囲にいる全ての敵を闇の針で串刺しにしてしまう逃げ場の全くない攻撃。(ブラストさんより)"
-            },
-            {
-                "move_name": "五ぼう結界",
-                "url": "https://hissatuwaza.kill.jp/setume/nora.htm##nora29",
-                "user": "魔王軍の将軍たち",
-                "description": "魔王軍の将軍たちによる合体結界魔法。地、風、霊、水、火の5つの属性の結界魔法を敵を取り囲むような陣形で同時に使用することで発動。周囲に被害が出ないように敵の攻撃の余波を封じる。(ブラストさんより)"
-            },
-            {
-                "move_name": "疾風（しっぷう）迅雷塊箭",
-                "url": "https://hissatuwaza.kill.jp/setume/nora.htm##nora28",
-                "user": "フォール、ノラ",
-                "description": "ノラとフォールが使用できる風属魔法のひとつ。見た目は若干異なり、フォールが使用するものは闇の球から黒い雷を含んだ巨大な矢を放つというもので、ノラが使用するものは白い雷を含んだ巨大な矢になる。(ブラストさんより)"
-            },
-            {
-                "move_name": "灼熱旋風",
-                "url": "https://hissatuwaza.kill.jp/setume/nora.htm#nora4",
-                "user": "ノラなど",
-                "description": "火属魔法(イグニスマギア)の一つ。相手を炎に包み込んでダメージを与える。(踝露伴さんより)"
-            },
-            {
-                "move_name": "従蛇の連牙",
-                "url": "https://hissatuwaza.kill.jp/setume/nora.htm#nora14",
-                "user": "バリク",
-                "description": "水属魔法(アクアマギア)の一つ。おそらく水でできていると思われる蛇を大量に放出する。(踝露伴さんより)"
-            },
-            {
-                "move_name": "消魔防壁",
-                "url": "https://hissatuwaza.kill.jp/setume/nora.htm##nora30",
-                "user": "カイン",
-                "description": "霊属魔法の中の防御魔法。味方を敵の攻撃から守るバリアを張る。(ブラストさんより)"
-            },
-            {
-                "move_name": "触式爆炎導",
-                "url": "https://hissatuwaza.kill.jp/setume/nora.htm#nora24",
-                "user": "ニックス",
-                "description": "火属魔法(イグニスマギア)の一つ。物にまとわせる魔法で、まとわせている間はその物に触れると爆発が起こる。(踝露伴さんより)"
-            },
-            {
-                "move_name": "真空の刃",
-                "url": "https://hissatuwaza.kill.jp/setume/nora.htm#nora18",
-                "user": "ノラ",
-                "description": "第1話に名前のみ登場した、風属魔法(アネモスマギア)のひとつ。しかしノラは強引に一磨と使い魔契約を結ばされ、彼の許可なしには呪文が使えない状態のため不発に終わる。(踝露伴さんより)"
-            },
-            {
-                "move_name": "真空包障壁",
-                "url": "https://hissatuwaza.kill.jp/setume/nora.htm#nora26",
-                "user": "バジー",
-                "description": "バジーが使用した風属魔法。手から周囲にいる味方を守るバリアを張るというもの。(ブラストさんより)"
-            },
-            {
-                "move_name": "真空矢連放射（しんくうしれんほうしゃ）",
-                "url": "https://hissatuwaza.kill.jp/setume/nora.htm#nora19",
-                "user": "フォール",
-                "description": "風属魔法(アネモスマギア)のひとつ。多数の強力な真空の矢を周囲全方向に飛ばす。\n名前と内容からすると、第1話でノラが使おうとした「真空の刃」の上位呪文なのかもしれない。(踝露伴さんより)"
-            },
-            {
-                "move_name": "水晶鎖牢",
-                "url": "https://hissatuwaza.kill.jp/setume/nora.htm##nora27",
-                "user": "カイン",
-                "description": "地属魔法のひとつ。相手の周囲を取り囲むように地面から水晶の柱を複数出現させ、その中から鎖を飛ばして敵の動きを封じ込める。(ブラストさんより)"
-            },
-            {
-                "move_name": "先行透視",
-                "url": "https://hissatuwaza.kill.jp/setume/nora.htm#nora15",
-                "user": "プーソン",
-                "description": "霊属魔法(エーテルマギア)の一つ。「私はすぐそこに来たるべき未来を視ることができるのだよっっっ!」（byプーソン）(踝露伴さんより)"
-            },
-            {
-                "move_name": "双水龍波",
-                "url": "https://hissatuwaza.kill.jp/setume/nora.htm#nora7",
-                "user": "ノラなど",
-                "description": "水属魔法(アクアマギア)の一つ。二本の龍型の水流を放出する。(踝露伴さんより)"
-            },
-            {
-                "move_name": "大地の揺り籠",
-                "url": "https://hissatuwaza.kill.jp/setume/nora.htm#nora18",
-                "user": "ノラ",
-                "description": "第1話に名前のみ登場した、風属魔法(アネモスマギア)のひとつ。しかしノラは強引に一磨と使い魔契約を結ばされ、彼の許可なしには呪文が使えない状態のため不発に終わる。(踝露伴さんより)"
-            },
-            {
-                "move_name": "地動裂衝破",
-                "url": "https://hissatuwaza.kill.jp/setume/nora.htm#nora12",
-                "user": "タイロン",
-                "description": "地属魔法(テラマギア)の一つ。地割れを起こす。タイロンはこのあと地割れを狭くして中にいるノラと一磨を押しつぶそうとするが、それもこの魔法の内容のうちかは不明。\nなお余談だが、本誌掲載時はこれを放つ前のタイロンの「地属魔法(テラマギア)」のセリフが抜けていたが、コミックスでは無事修正された。(踝露伴さんより)"
-            },
-            {
-                "move_name": "爆炎の牙",
-                "url": "https://hissatuwaza.kill.jp/setume/nora.htm#nora2",
-                "user": "ノラなど",
-                "description": "火属魔法(イグニスマギア)の一つ。ノラが（多分）最も多用している攻撃魔法。そのまんま牙型の爆炎を飛ばす。(踝露伴さんより)"
-            },
-            {
-                "move_name": "爆破",
-                "url": "https://hissatuwaza.kill.jp/setume/nora.htm#nora3",
-                "user": "色々な悪魔",
-                "description": "霊属魔法(エーテルマギア)の一つ。魔力の流出を抑えられる封身状態（人型）からもとの姿に戻る。ちなみにノラの正体はケルベロスで、この姿になると口から光線（?）が吐けたりもする。(踝露伴さんより)"
-            },
-            {
-                "move_name": "必殺☆魔流(ストリーム)合体",
-                "url": "https://hissatuwaza.kill.jp/setume/nora.htm#nora13",
-                "user": "キングジェリー",
-                "description": "他の悪魔の魔力の流れに同化し、その悪魔を操ってしまう。(踝露伴さんより)"
-            },
-            {
-                "move_name": "氷光凍撃弾",
-                "url": "https://hissatuwaza.kill.jp/setume/nora.htm#nora10",
-                "user": "ノラなど",
-                "description": "水属魔法(アクアマギア)の一つ。おそらく吹雪を収束して巨大な弾として放つと思われる。(踝露伴さんより)"
-            },
-            {
-                "move_name": "氷柱包囲撃",
-                "url": "https://hissatuwaza.kill.jp/setume/nora.htm#nora21",
-                "user": "リヴァン",
-                "description": "水属魔法(アクアマギア)の一つ。ツララを多数出現させて操り、敵を突き刺す。(踝露伴さんより)"
-            },
-            {
-                "move_name": "風神の息吹",
-                "url": "https://hissatuwaza.kill.jp/setume/nora.htm#nora11",
-                "user": "ケイニーなど",
-                "description": "風属魔法(アネモスマギア)の一つ。突風を起こす。相手を吹き飛ばしたり、地割れから脱出したりと結構応用が利く。(踝露伴さんより)"
-            },
-            {
-                "move_name": "封身解放",
-                "url": "https://hissatuwaza.kill.jp/setume/nora.htm#nora3",
-                "user": "色々な悪魔",
-                "description": "霊属魔法(エーテルマギア)の一つ。魔力の流出を抑えられる封身状態（人型）からもとの姿に戻る。ちなみにノラの正体はケルベロスで、この姿になると口から光線（?）が吐けたりもする。(踝露伴さんより)"
-            },
-            {
-                "move_name": "目潰し攻撃",
-                "url": "https://hissatuwaza.kill.jp/setume/nora.htm#nora16",
-                "user": "ノラ",
-                "description": "第7話で使った。要は相手に砂をぶつけるだけなのだが、一磨にはあっさりかわされリヴァンには全く効かなかったりと、役にはたたなかった。(踝露伴さんより)"
-            },
-            {
-                "move_name": "門番の咆哮",
-                "url": "https://hissatuwaza.kill.jp/setume/nora.htm#nora",
-                "user": "NORA",
-                "description": "読み切り漫画の最後のとどめとして使われた技です。\n火、水、風、地、霊の五属性をフル活用して相手を封印する技。"
-            },
-            {
-                "move_name": "乱水斬",
-                "url": "https://hissatuwaza.kill.jp/setume/nora.htm#nora8",
-                "user": "バリク",
-                "description": "水属魔法(アクアマギア)の一つ。チャクラム状の水の刃を飛ばして切り裂く。(踝露伴さんより)"
-            },
-            {
-                "move_name": "燐火誘導弾",
-                "url": "https://hissatuwaza.kill.jp/setume/nora.htm#nora22",
-                "user": "メルフィア",
-                "description": "火属魔法(イグニスマギア)の一つ。周囲に火の弾を多数出現させ、相手めがけて放つ。連射系の宿命か、一発ごとの威力は割と低い模様。(踝露伴さんより)"
-            },
-            {
-                "move_name": "裂破の指先",
-                "url": "https://hissatuwaza.kill.jp/setume/nora.htm#nora23",
-                "user": "ニックス",
-                "description": "火属魔法(イグニスマギア)の一つ。触れた部分に爆発を起こす。(踝露伴さんより)"
+                "move_name": "積年の恨みアタック",
+                "url": "https://hissatuwaza.kill.jp/setume/nomurari.htm#nomurari5",
+                "user": "青井海音",
+                "description": "バシイィィという効果音がでるほど\n相手をはたく。"
             }
         ]
     },
@@ -1558,16 +706,328 @@
         "series_url": "https://hissatuwaza.kill.jp/setume/norausa.htm",
         "moves": [
             {
-                "move_name": "足踏(スタンピング)",
-                "url": "https://hissatuwaza.kill.jp/setume/norausa.htm#norausa1",
-                "user": "つきみ",
-                "description": "強靭な脚力で地面を踏みつけることによって砂煙を巻き上げる。"
-            },
-            {
                 "move_name": "狗掻",
                 "url": "https://hissatuwaza.kill.jp/setume/norausa.htm#norausa2",
                 "user": "カンパラ中佐",
                 "description": "第28話初登場。鋭い爪によって対象を斬り裂く。\n体を切断する切れ味がある。"
+            },
+            {
+                "move_name": "足踏(スタンピング)",
+                "url": "https://hissatuwaza.kill.jp/setume/norausa.htm#norausa1",
+                "user": "つきみ",
+                "description": "強靭な脚力で地面を踏みつけることによって砂煙を巻き上げる。"
+            }
+        ]
+    },
+    {
+        "series_name": "のりおダちょ～ん",
+        "series_url": "https://hissatuwaza.kill.jp/setume/norioda.htm",
+        "moves": [
+            {
+                "move_name": "100本背負い",
+                "url": "https://hissatuwaza.kill.jp/setume/norioda.htm#norioda4",
+                "user": "丸米のりお",
+                "description": "所謂一本背負い。(うーどさんより)"
+            },
+            {
+                "move_name": "1回転足払い",
+                "url": "https://hissatuwaza.kill.jp/setume/norioda.htm#norioda15",
+                "user": "犬田",
+                "description": "相手が一回転するほどの強力な送り足払いを繰り出す。食らった関谷は着地の衝撃で動けず振り子式逆足払いを喰らって秒殺される。(うーどさんより)"
+            },
+            {
+                "move_name": "ともえのソロバン投げ",
+                "url": "https://hissatuwaza.kill.jp/setume/norioda.htm#norioda17",
+                "user": "太田たけし",
+                "description": "相手を空高く投げ飛ばす巴投げ。のりおに使用したが、運よく審判の上に着地した。(うーどさんより)"
+            },
+            {
+                "move_name": "エイリアン攻撃",
+                "url": "https://hissatuwaza.kill.jp/setume/norioda.htm#norioda11",
+                "user": "丸米のりお",
+                "description": "審判の顔面に飛び付く。(うーどさんより)"
+            },
+            {
+                "move_name": "ニューでこぴん",
+                "url": "https://hissatuwaza.kill.jp/setume/norioda.htm#norioda1",
+                "user": "丸米のりお",
+                "description": "20センチ定規を使い、デコピンの要領ではじく。食らうとすごく痛い。(うーどさんより)"
+            },
+            {
+                "move_name": "ハゲパチ",
+                "url": "https://hissatuwaza.kill.jp/setume/norioda.htm#norioda7",
+                "user": "丸米のりお",
+                "description": "豚世から逃れるために使用した技。親指で相手の刈り上げ部分を押し上げる。とても痛い。(うーどさんより)"
+            },
+            {
+                "move_name": "ハンマーで相手をたたきんぐ",
+                "url": "https://hissatuwaza.kill.jp/setume/norioda.htm#norioda12",
+                "user": "丸米のりお",
+                "description": "ハンマーで相手をぶっ叩く。熊田を叩き起す際に使用。(うーどさんより)"
+            },
+            {
+                "move_name": "フライング4の字固め",
+                "url": "https://hissatuwaza.kill.jp/setume/norioda.htm#norioda3",
+                "user": "丸米のりお",
+                "description": "その名の通り空中で4の字固めをかける。(うーどさんより)"
+            },
+            {
+                "move_name": "大浣腸",
+                "url": "https://hissatuwaza.kill.jp/setume/norioda.htm#9norioda",
+                "user": "丸米のりお",
+                "description": "強烈な浣腸攻撃。(うーどさんより)"
+            },
+            {
+                "move_name": "大激痛 極細ツマヨージ",
+                "url": "https://hissatuwaza.kill.jp/setume/norioda.htm#norioda10",
+                "user": "丸米のりお",
+                "description": "爪楊枝を相手の上唇に突き刺す凶器技。(うーどさんより)"
+            },
+            {
+                "move_name": "大鉄柱",
+                "url": "https://hissatuwaza.kill.jp/setume/norioda.htm#norioda6",
+                "user": "丸米のりお",
+                "description": "親父の顔面を電柱に叩き付けた。(うーどさんより)"
+            },
+            {
+                "move_name": "振り子式逆足払い",
+                "url": "https://hissatuwaza.kill.jp/setume/norioda.htm#norioda16",
+                "user": "犬田",
+                "description": "逆方向に足を振って行う足払い。(うーどさんより)"
+            },
+            {
+                "move_name": "永遠なる卍固め",
+                "url": "https://hissatuwaza.kill.jp/setume/norioda.htm#norioda8",
+                "user": "丸米のりお",
+                "description": "アロンアルファーを柔道着の両腕両足にぬってから相手に卍固めに極める。脱出不可能だが、自分で墓穴を掘ってしまった。(うーどさんより)"
+            },
+            {
+                "move_name": "腕乳10時固め",
+                "url": "https://hissatuwaza.kill.jp/setume/norioda.htm#norioda5",
+                "user": "丸米のりお",
+                "description": "腕ひしぎ十字固めを極めようとしたが、腕を曲げられて失敗に終わる。(うーどさんより)"
+            },
+            {
+                "move_name": "裏投げ固め",
+                "url": "https://hissatuwaza.kill.jp/setume/norioda.htm#norioda13",
+                "user": "小島",
+                "description": "相手の帯をつかんで無理矢理持ち上げ、一瞬手を離してからジャーマンのようにブン投げる。(うーどさんより)"
+            },
+            {
+                "move_name": "鉄柱攻撃",
+                "url": "https://hissatuwaza.kill.jp/setume/norioda.htm#norioda2",
+                "user": "丸米のりお",
+                "description": "逃げるのりおを捕まえた風紀委員の顔面を校舎の壁に叩き付けた。(うーどさんより)"
+            },
+            {
+                "move_name": "長介スープレックス",
+                "url": "https://hissatuwaza.kill.jp/setume/norioda.htm#norioda14",
+                "user": "関谷",
+                "description": "のりおから教えてもらった技。長介くちびるを装備して相手の耳元で「ぅいーっス」と大声を出して相手を爆笑させる。のりおは「ボクがやればよかった」と後悔していた。(うーどさんより)"
+            },
+            {
+                "move_name": "風紀委員キック",
+                "url": "https://hissatuwaza.kill.jp/setume/norioda.htm#norioda18",
+                "user": "風紀委員",
+                "description": "のりおに両腕を封じられたため、跳び蹴りを放ったがフライング4の字固めで返される。(うーどさんより)"
+            },
+            {
+                "move_name": "風紀岩石落とし",
+                "url": "https://hissatuwaza.kill.jp/setume/norioda.htm#norioda19",
+                "user": "風紀委員",
+                "description": "ハンセン式バックドロップ。のりおをコンクリートの床に叩きつけようとしたが、せんぬき攻撃に敗れる。(うーどさんより)"
+            }
+        ]
+    },
+    {
+        "series_name": "のんのんびより",
+        "series_url": "https://hissatuwaza.kill.jp/setume/nonnon.htm",
+        "moves": [
+            {
+                "move_name": "わかったから落ち着きさないチョップ",
+                "url": "https://hissatuwaza.kill.jp/setume/nonnon.htm#nonnon1",
+                "user": "越谷夏海",
+                "description": "第3話初登場。自分より小さい姉に対して繰り出した上からのチョップ。\n叩くというよりはうるさく騒ぐ姉へのツッコミ的な一撃。"
+            },
+            {
+                "move_name": "グレートマンパンチ",
+                "url": "https://hissatuwaza.kill.jp/setume/nonnon.htm#nonnon4",
+                "user": "宮内れんげ",
+                "description": "第19話初登場。作中のテレビ番組のヒーローが使用すると思われる攻撃。\n作中では小1のれんげが遊びで繰り出している。"
+            },
+            {
+                "move_name": "スネ蹴り",
+                "url": "https://hissatuwaza.kill.jp/setume/nonnon.htm#nonnon9",
+                "user": "越谷夏海、宮内れんげ",
+                "description": "第74話初登場。相手のスネを蹴りつける必殺やら禁じ手に分類されるもの。\n元々は夏海が使用していたが、れんちょんにも受け継がれている。"
+            },
+            {
+                "move_name": "ミラクルローリングずつき",
+                "url": "https://hissatuwaza.kill.jp/setume/nonnon.htm#nonnon8",
+                "user": "",
+                "description": "夏海とれんげが描いた漫画のキャラが\n繰り出したキリモミ回転しながら繰り出す頭突き攻撃。"
+            },
+            {
+                "move_name": "夏海ちゃんダイナマイトピローアタック",
+                "url": "https://hissatuwaza.kill.jp/setume/nonnon.htm#nonnon11",
+                "user": "越谷夏海",
+                "description": "アニメ版第8話初登場。\n枕投げで使用した一撃。\n結果、ふすまに手をぶつけて穴を開けてしまう。"
+            },
+            {
+                "move_name": "夏海ちゃんパンチ",
+                "url": "https://hissatuwaza.kill.jp/setume/nonnon.htm#nonnon12",
+                "user": "越谷夏海",
+                "description": "第1話初登場。\n幼き頃の夏海が駄菓子屋に対して放ったパンチ。"
+            },
+            {
+                "move_name": "必殺 瓦投げ",
+                "url": "https://hissatuwaza.kill.jp/setume/nonnon.htm#nonnon3",
+                "user": "越谷夏海",
+                "description": "幼き頃の夏海が繰り出した屋根に登ってからの、瓦を投げる本人曰く必殺技。"
+            },
+            {
+                "move_name": "必殺確殺シュート",
+                "url": "https://hissatuwaza.kill.jp/setume/nonnon.htm#nonnon10",
+                "user": "越谷夏海",
+                "description": "第93話初登場。ボール投げにおいて本人曰く自身で編み出したもの。\nすべてを確殺するらしく、作中では盆栽を確殺している。"
+            },
+            {
+                "move_name": "滝登り",
+                "url": "https://hissatuwaza.kill.jp/setume/nonnon.htm#nonnon5",
+                "user": "宮内れんげ",
+                "description": "第56話初登場。定規落としという遊びで使用される技。\n自身の定規の端をペンで突くことによって、自身の定規を跳ね上げて\n上に乗った相手の定規を弾き飛ばす。\nひか姉が命名したらしい。"
+            },
+            {
+                "move_name": "燕返し",
+                "url": "https://hissatuwaza.kill.jp/setume/nonnon.htm#nonnon6",
+                "user": "宮内れんげ",
+                "description": "第56話初登場。定規落としという遊びで使用される技。\n机の端にはみ出た定規をペンを使ってひっくり返す。"
+            },
+            {
+                "move_name": "白刃取り",
+                "url": "https://hissatuwaza.kill.jp/setume/nonnon.htm#nonnon7",
+                "user": "越谷卓",
+                "description": "第56話初登場。定規落としという遊びで使用される技。\n机の外に弾き飛ばされそうになった自身の定規をペンを振るって\n机の中に弾き飛ばす。上級技に分類されるらしい。"
+            },
+            {
+                "move_name": "障子パンチ",
+                "url": "https://hissatuwaza.kill.jp/setume/nonnon.htm#nonnon2",
+                "user": "越谷夏海",
+                "description": "幼き頃の夏海が繰り出した障子を破いたパンチ。"
+            }
+        ]
+    },
+    {
+        "series_name": "ノケモノたちの夜",
+        "series_url": "https://hissatuwaza.kill.jp/setume/nokemono.htm",
+        "moves": [
+            {
+                "move_name": "バーニング猫パンチ",
+                "url": "https://hissatuwaza.kill.jp/setume/nokemono.htm#nokemono1",
+                "user": "マルバス",
+                "description": "第32話初登場。\n拳の形をした炎を飛ばして攻撃をする必殺技。"
+            },
+            {
+                "move_name": "士気操作(モラールコントロール)",
+                "url": "https://hissatuwaza.kill.jp/setume/nokemono.htm#nokemono2",
+                "user": "ダンダリオン",
+                "description": "第60話初登場。\n周囲の味方の能力を大幅に上昇させ、\n敵の戦意をダウンさせる能力。\n強者であれば敵に対しての効果は薄い。"
+            },
+            {
+                "move_name": "惨刃雨(カラミティレイン)",
+                "url": "https://hissatuwaza.kill.jp/setume/nokemono.htm#nokemono3",
+                "user": "ダンダリオン",
+                "description": "第60話初登場。空中から\n大量の刃を降らせて攻撃をする必殺技。"
+            }
+        ]
+    },
+    {
+        "series_name": "ノゾ×キミ",
+        "series_url": "https://hissatuwaza.kill.jp/setume/nozokimi.htm",
+        "moves": [
+            {
+                "move_name": "岩清水アタック",
+                "url": "https://hissatuwaza.kill.jp/setume/nozokimi.htm#nozokimi1",
+                "user": "岩清水ミヤコ",
+                "description": "第40話初登場。\n足元に来たサッカーボールをシュートする。\n運動神経が鈍いからか、クリーンヒットしなかった。"
+            }
+        ]
+    },
+    {
+        "series_name": "ノックエッジ",
+        "series_url": "https://hissatuwaza.kill.jp/setume/nocke.htm",
+        "moves": [
+            {
+                "move_name": "大葉刈",
+                "url": "https://hissatuwaza.kill.jp/setume/nocke.htm#nocke1",
+                "user": "弥猛",
+                "description": "神波流の技で、\n相手の攻撃を片腕でさばいて、懐に入りつつ\nもう片方の腕で肘鉄を繰り出す。"
+            }
+        ]
+    },
+    {
+        "series_name": "ノットライヴス",
+        "series_url": "https://hissatuwaza.kill.jp/setume/notl.htm",
+        "moves": [
+            {
+                "move_name": "ガベル",
+                "url": "https://hissatuwaza.kill.jp/setume/notl.htm#notl7",
+                "user": "",
+                "description": "マスタースキルの1つ。\n自身が受けたダメージを射程内にいる相手にカウンターとして攻撃をすることが出来る。\n空間を超越して攻撃が可能。"
+            },
+            {
+                "move_name": "チューニングインパクト",
+                "url": "https://hissatuwaza.kill.jp/setume/notl.htm#notl2",
+                "user": "MAZE",
+                "description": "矛のような武器によって対象の頭部を直接突くことによって\n先端から発する振動によって頭部破壊をおこなう必殺技。"
+            },
+            {
+                "move_name": "ハイド",
+                "url": "https://hissatuwaza.kill.jp/setume/notl.htm#notl5",
+                "user": "雨宮",
+                "description": "姿を消したかのようにすることが出来るスキル。"
+            },
+            {
+                "move_name": "バルーン",
+                "url": "https://hissatuwaza.kill.jp/setume/notl.htm#notl1",
+                "user": "",
+                "description": "対象の重力を低くすることが出来るスキル。"
+            },
+            {
+                "move_name": "マグネット",
+                "url": "https://hissatuwaza.kill.jp/setume/notl.htm#notl4",
+                "user": "MAZEなど",
+                "description": "磁力の特性のようなものを発揮させることが出来るスキル。"
+            },
+            {
+                "move_name": "ライトニングラプター",
+                "url": "https://hissatuwaza.kill.jp/setume/notl.htm#notl6",
+                "user": "雨宮",
+                "description": "落雷を利用して剣で、その雷の一部を飛ばして攻撃をする。\nちょっとでも雷に触れれば自身の方にダメージが有る。"
+            },
+            {
+                "move_name": "不協和移動術(ディスコード・モーション)",
+                "url": "https://hissatuwaza.kill.jp/setume/notl.htm#notl3",
+                "user": "MAZE",
+                "description": "人格を次々に切り替えることによって、\n不規則な動きをおこない相手に行動を読まさないという技。"
+            },
+            {
+                "move_name": "皇帝の親指(サムズダウン)",
+                "url": "https://hissatuwaza.kill.jp/setume/notl.htm#notl8",
+                "user": "",
+                "description": "衛星からビームを放つ攻撃。\n発動には座標を指定した上に、指の派手な動作が必要。"
+            }
+        ]
+    },
+    {
+        "series_name": "ノブナガン",
+        "series_url": "https://hissatuwaza.kill.jp/setume/nobunagan.htm",
+        "moves": [
+            {
+                "move_name": "ノブナガン三段撃ち",
+                "url": "https://hissatuwaza.kill.jp/setume/nobunagan.htm#nobunagan1",
+                "user": "小椋しお",
+                "description": "第2話初登場。\n装着したAUウェポンのノブナガンからもう片方の手で銃を取り出し、\nさらに展開させた仮面といった具合に、同時に三方向に射撃を\nおこなうことが出来る必殺技。"
             }
         ]
     },
@@ -1598,126 +1058,6 @@
                 "url": "https://hissatuwaza.kill.jp/setume/noragami.htm#noragami4",
                 "user": "兆麻",
                 "description": "第9話初登場。対象の動きを封じることが出来る。"
-            }
-        ]
-    },
-    {
-        "series_name": "のりおダちょ～ん",
-        "series_url": "https://hissatuwaza.kill.jp/setume/norioda.htm",
-        "moves": [
-            {
-                "move_name": "1回転足払い",
-                "url": "https://hissatuwaza.kill.jp/setume/norioda.htm#norioda15",
-                "user": "犬田",
-                "description": "相手が一回転するほどの強力な送り足払いを繰り出す。食らった関谷は着地の衝撃で動けず振り子式逆足払いを喰らって秒殺される。(うーどさんより)"
-            },
-            {
-                "move_name": "100本背負い",
-                "url": "https://hissatuwaza.kill.jp/setume/norioda.htm#norioda4",
-                "user": "丸米のりお",
-                "description": "所謂一本背負い。(うーどさんより)"
-            },
-            {
-                "move_name": "エイリアン攻撃",
-                "url": "https://hissatuwaza.kill.jp/setume/norioda.htm#norioda11",
-                "user": "丸米のりお",
-                "description": "審判の顔面に飛び付く。(うーどさんより)"
-            },
-            {
-                "move_name": "ともえのソロバン投げ",
-                "url": "https://hissatuwaza.kill.jp/setume/norioda.htm#norioda17",
-                "user": "太田たけし",
-                "description": "相手を空高く投げ飛ばす巴投げ。のりおに使用したが、運よく審判の上に着地した。(うーどさんより)"
-            },
-            {
-                "move_name": "ニューでこぴん",
-                "url": "https://hissatuwaza.kill.jp/setume/norioda.htm#norioda1",
-                "user": "丸米のりお",
-                "description": "20センチ定規を使い、デコピンの要領ではじく。食らうとすごく痛い。(うーどさんより)"
-            },
-            {
-                "move_name": "ハゲパチ",
-                "url": "https://hissatuwaza.kill.jp/setume/norioda.htm#norioda7",
-                "user": "丸米のりお",
-                "description": "豚世から逃れるために使用した技。親指で相手の刈り上げ部分を押し上げる。とても痛い。(うーどさんより)"
-            },
-            {
-                "move_name": "ハンマーで相手をたたきんぐ",
-                "url": "https://hissatuwaza.kill.jp/setume/norioda.htm#norioda12",
-                "user": "丸米のりお",
-                "description": "ハンマーで相手をぶっ叩く。熊田を叩き起す際に使用。(うーどさんより)"
-            },
-            {
-                "move_name": "フライング4の字固め",
-                "url": "https://hissatuwaza.kill.jp/setume/norioda.htm#norioda3",
-                "user": "丸米のりお",
-                "description": "その名の通り空中で4の字固めをかける。(うーどさんより)"
-            },
-            {
-                "move_name": "腕乳10時固め",
-                "url": "https://hissatuwaza.kill.jp/setume/norioda.htm#norioda5",
-                "user": "丸米のりお",
-                "description": "腕ひしぎ十字固めを極めようとしたが、腕を曲げられて失敗に終わる。(うーどさんより)"
-            },
-            {
-                "move_name": "裏投げ固め",
-                "url": "https://hissatuwaza.kill.jp/setume/norioda.htm#norioda13",
-                "user": "小島",
-                "description": "相手の帯をつかんで無理矢理持ち上げ、一瞬手を離してからジャーマンのようにブン投げる。(うーどさんより)"
-            },
-            {
-                "move_name": "永遠なる卍固め",
-                "url": "https://hissatuwaza.kill.jp/setume/norioda.htm#norioda8",
-                "user": "丸米のりお",
-                "description": "アロンアルファーを柔道着の両腕両足にぬってから相手に卍固めに極める。脱出不可能だが、自分で墓穴を掘ってしまった。(うーどさんより)"
-            },
-            {
-                "move_name": "大浣腸",
-                "url": "https://hissatuwaza.kill.jp/setume/norioda.htm#9norioda",
-                "user": "丸米のりお",
-                "description": "強烈な浣腸攻撃。(うーどさんより)"
-            },
-            {
-                "move_name": "大激痛 極細ツマヨージ",
-                "url": "https://hissatuwaza.kill.jp/setume/norioda.htm#norioda10",
-                "user": "丸米のりお",
-                "description": "爪楊枝を相手の上唇に突き刺す凶器技。(うーどさんより)"
-            },
-            {
-                "move_name": "大鉄柱",
-                "url": "https://hissatuwaza.kill.jp/setume/norioda.htm#norioda6",
-                "user": "丸米のりお",
-                "description": "親父の顔面を電柱に叩き付けた。(うーどさんより)"
-            },
-            {
-                "move_name": "長介スープレックス",
-                "url": "https://hissatuwaza.kill.jp/setume/norioda.htm#norioda14",
-                "user": "関谷",
-                "description": "のりおから教えてもらった技。長介くちびるを装備して相手の耳元で「ぅいーっス」と大声を出して相手を爆笑させる。のりおは「ボクがやればよかった」と後悔していた。(うーどさんより)"
-            },
-            {
-                "move_name": "鉄柱攻撃",
-                "url": "https://hissatuwaza.kill.jp/setume/norioda.htm#norioda2",
-                "user": "丸米のりお",
-                "description": "逃げるのりおを捕まえた風紀委員の顔面を校舎の壁に叩き付けた。(うーどさんより)"
-            },
-            {
-                "move_name": "風紀委員キック",
-                "url": "https://hissatuwaza.kill.jp/setume/norioda.htm#norioda18",
-                "user": "風紀委員",
-                "description": "のりおに両腕を封じられたため、跳び蹴りを放ったがフライング4の字固めで返される。(うーどさんより)"
-            },
-            {
-                "move_name": "風紀岩石落とし",
-                "url": "https://hissatuwaza.kill.jp/setume/norioda.htm#norioda19",
-                "user": "風紀委員",
-                "description": "ハンセン式バックドロップ。のりおをコンクリートの床に叩きつけようとしたが、せんぬき攻撃に敗れる。(うーどさんより)"
-            },
-            {
-                "move_name": "振り子式逆足払い",
-                "url": "https://hissatuwaza.kill.jp/setume/norioda.htm#norioda16",
-                "user": "犬田",
-                "description": "逆方向に足を振って行う足払い。(うーどさんより)"
             }
         ]
     },
@@ -1762,22 +1102,22 @@
                 "description": "クラブマングースの尾宅太が好きな美少女アニメ「メロリン」の48のメロリン技。(ブルースさんより)"
             },
             {
-                "move_name": "横尾キック",
-                "url": "https://hissatuwaza.kill.jp/setume/noruman.htm#noruma7",
-                "user": "横尾義行",
-                "description": "ノルマンディーひみつ倶楽部の横尾のキック。(ブルースさんより)"
-            },
-            {
-                "move_name": "究極奥義アンドロメダ  テクニカルノックアウトダンサンブルアフロマン  人生いろいろ転落人生",
-                "url": "https://hissatuwaza.kill.jp/setume/noruman.htm#noruma8",
-                "user": "蕪木流道場生",
-                "description": "女心と秋の空　母なる大地に抱かれて　男は今日も酒を飲むあたいの胸で泣きなはれ拳。\n蕪木流　諸行無常　暗殺拳道場で習ってる技の一つ。(ブルースさんより)"
-            },
-            {
                 "move_name": "五臓六腑爆裂拳",
                 "url": "https://hissatuwaza.kill.jp/setume/noruman.htm#noruma9",
                 "user": "蕪木流道場生",
                 "description": "蕪木流　諸行無常　暗殺拳道場で習ってる技の一つ、道場の人間は全員使えます。(ブルースさんより)"
+            },
+            {
+                "move_name": "暴走機関車粉砕チョップ",
+                "url": "https://hissatuwaza.kill.jp/setume/noruman.htm#noruma12",
+                "user": "蕪木流道場生",
+                "description": "蕪木流　諸行無常　暗殺拳道場で習ってる技の一つ。(ブルースさんより)"
+            },
+            {
+                "move_name": "横尾キック",
+                "url": "https://hissatuwaza.kill.jp/setume/noruman.htm#noruma7",
+                "user": "横尾義行",
+                "description": "ノルマンディーひみつ倶楽部の横尾のキック。(ブルースさんより)"
             },
             {
                 "move_name": "殺陣",
@@ -1786,16 +1126,298 @@
                 "description": "轟風来坊の殴った様にみせる技（？）(又は、撲られたように)　(ブルースさんより)"
             },
             {
+                "move_name": "究極奥義アンドロメダ  テクニカルノックアウトダンサンブルアフロマン  人生いろいろ転落人生",
+                "url": "https://hissatuwaza.kill.jp/setume/noruman.htm#noruma8",
+                "user": "蕪木流道場生",
+                "description": "女心と秋の空　母なる大地に抱かれて　男は今日も酒を飲むあたいの胸で泣きなはれ拳。\n蕪木流　諸行無常　暗殺拳道場で習ってる技の一つ。(ブルースさんより)"
+            },
+            {
                 "move_name": "赤道直下パンチ",
                 "url": "https://hissatuwaza.kill.jp/setume/noruman.htm#noruma11",
                 "user": "蕪木流道場生",
                 "description": "蕪木流　諸行無常　暗殺拳道場で習ってる技の一つ。(ブルースさんより)"
+            }
+        ]
+    },
+    {
+        "series_name": "ノロマジョ",
+        "series_url": "https://hissatuwaza.kill.jp/setume/noromajo.htm",
+        "moves": [
+            {
+                "move_name": "笑顔になあれビーム",
+                "url": "https://hissatuwaza.kill.jp/setume/noromajo.htm#noromajo1",
+                "user": "ゆとり",
+                "description": "最終話にて登場。\n魔法の杖からビームを発射して対象を浄化する。\n相手は「スマイリー」と言いながら浄化される。"
+            }
+        ]
+    },
+    {
+        "series_name": "ノーガンズライフ",
+        "series_url": "https://hissatuwaza.kill.jp/setume/no-ganzu.htm",
+        "moves": [
+            {
+                "move_name": "シュトルム・ファウスト",
+                "url": "https://hissatuwaza.kill.jp/setume/no-ganzu.htm#no-ganzu1",
+                "user": "セブン",
+                "description": "腕のところに仕込まれた4つの銃口から\n同時に射撃を繰り出して攻撃をする。"
             },
             {
-                "move_name": "暴走機関車粉砕チョップ",
-                "url": "https://hissatuwaza.kill.jp/setume/noruman.htm#noruma12",
-                "user": "蕪木流道場生",
-                "description": "蕪木流　諸行無常　暗殺拳道場で習ってる技の一つ。(ブルースさんより)"
+                "move_name": "ヒュッツェ・ファウスト",
+                "url": "https://hissatuwaza.kill.jp/setume/no-ganzu.htm#no-ganzu2",
+                "user": "セブン",
+                "description": "掌に隠されたバーナーのようなものを\n展開させ、エネルギーを噴出させて攻撃をする。"
+            },
+            {
+                "move_name": "ヒュンケファウスト",
+                "url": "https://hissatuwaza.kill.jp/setume/no-ganzu.htm#no-ganzu1",
+                "user": "セブン",
+                "description": "腕のところに仕込まれた4つの銃口から\n同時に射撃を繰り出して攻撃をする。"
+            }
+        ]
+    },
+    {
+        "series_name": "ノーゲーム・ノーライフ",
+        "series_url": "https://hissatuwaza.kill.jp/setume/nogame.htm",
+        "moves": [
+            {
+                "move_name": "ブラッディースクライド",
+                "url": "https://hissatuwaza.kill.jp/setume/nogame.htm#nogame4",
+                "user": "シロ",
+                "description": "腕を捻って手のひらで突きを繰り出す。\n兄に対してツッコミ的な感じで使用しているので、\n多分ダイの大冒険のパロディ的なもの。"
+            },
+            {
+                "move_name": "九遠第四加護(クーリ・アンセ)",
+                "url": "https://hissatuwaza.kill.jp/setume/nogame.htm#nogame1",
+                "user": "ジブリール",
+                "description": "第2巻初登場。結界のようなものを展開させる最上封印魔法。\n水爆さえも簡単に防ぐことも可能。"
+            },
+            {
+                "move_name": "天撃",
+                "url": "https://hissatuwaza.kill.jp/setume/nogame.htm#nogame2",
+                "user": "ジブリール",
+                "description": "天翼族(フリューゲル)が使用する最大最強の攻撃。\n自身の体内構造を精霊回廊接続神経に変質させて、源潮流から力を組み上げて\n繰り出す一撃。使用にはかなりの負担がかかる。"
+            },
+            {
+                "move_name": "昇龍拳(ドラゴンアッパー)",
+                "url": "https://hissatuwaza.kill.jp/setume/nogame.htm#nogame5",
+                "user": "シロ",
+                "description": "兄に対して繰り出されたツッコミ的な\nアッパーカット攻撃。"
+            },
+            {
+                "move_name": "神撃",
+                "url": "https://hissatuwaza.kill.jp/setume/nogame.htm#nogame3",
+                "user": "アルトシュ",
+                "description": "第6巻初登場。全天翼族(フリューゲル)が放つ「天撃」を\nアルトシュの力と収束させて繰り出す一撃。\n使用後は天翼族は力を使い果たし、アルトシュ自身も弱体化してしまう。"
+            }
+        ]
+    },
+    {
+        "series_name": "ノーブルリージュ",
+        "series_url": "https://hissatuwaza.kill.jp/setume/nri-ju.htm",
+        "moves": [
+            {
+                "move_name": "縄使い(ロープトリック)",
+                "url": "https://hissatuwaza.kill.jp/setume/nri-ju.htm#nri-ju1",
+                "user": "ラング・ドナヒュー",
+                "description": "第1巻初登場。\nラングが魔術書なしで使用することが出来る魔法の1つ。\nロープを自在に操ることが可能。\n人間を縛ったりすることも可能だが、魔法自体のパワーは弱い。"
+            },
+            {
+                "move_name": "解呪(ディスペル)",
+                "url": "https://hissatuwaza.kill.jp/setume/nri-ju.htm#nri-ju2",
+                "user": "ラング・ドナヒュー",
+                "description": "第1巻初登場。魔術書を使用して繰り出した魔法の1つ。\n相手の魔法効果を打ち消す。"
+            }
+        ]
+    },
+    {
+        "series_name": "ノーマン",
+        "series_url": "https://hissatuwaza.kill.jp/setume/no-man.htm",
+        "moves": [
+            {
+                "move_name": "うしろむきうち",
+                "url": "https://hissatuwaza.kill.jp/setume/no-man.htm#no-man9",
+                "user": "デービット・フライト",
+                "description": "フライトの奥の手。弾丸の軌道を曲げて、後ろにいる相手を狙撃する。弾の軌道を操作できるフライト特製銃ならではの技である。(ケケケさんより)"
+            },
+            {
+                "move_name": "分裂能力",
+                "url": "https://hissatuwaza.kill.jp/setume/no-man.htm#no-man1",
+                "user": "ゲルダン人",
+                "description": "体をバラバラにされても死なず、各部を自在に動かすことができる。くっつけて再生することも可能だが、頭部を破壊されると死ぬ。(少不さんより)"
+            },
+            {
+                "move_name": "分身能力",
+                "url": "https://hissatuwaza.kill.jp/setume/no-man.htm#no-man6",
+                "user": "ルーピ",
+                "description": "自分と同じ姿の分身を作り出す。その分身は実体を持ち、自分で考えて行動することができる。(少不さんより)"
+            },
+            {
+                "move_name": "変身能力",
+                "url": "https://hissatuwaza.kill.jp/setume/no-man.htm#no-man2",
+                "user": "ゲルダン人",
+                "description": "他者の姿に変身する。姿だけで、能力は変わらない。(少不さんより)"
+            },
+            {
+                "move_name": "毒ガス能力",
+                "url": "https://hissatuwaza.kill.jp/setume/no-man.htm#no-man3",
+                "user": "ゲルダン人",
+                "description": "口から毒ガスを吐く。自分自身はその毒に対して耐性を持っているが、何らかの方法でその耐性を弱められてしまうと、自分の吐いた毒で死んでしまう。(少不さんより)"
+            },
+            {
+                "move_name": "破壊脳波",
+                "url": "https://hissatuwaza.kill.jp/setume/no-man.htm#no-man8",
+                "user": "ザロモン",
+                "description": "脳波を放って、物体を破壊する。人間の体内にある小型の爆弾だけを破壊するような精密なこともできる。(少不さんより)"
+            },
+            {
+                "move_name": "誘導能力",
+                "url": "https://hissatuwaza.kill.jp/setume/no-man.htm#no-man5",
+                "user": "ルイ・ブードル",
+                "description": "動物を呼び寄せたり、自在に操ったりできる。(少不さんより)"
+            },
+            {
+                "move_name": "透視能力",
+                "url": "https://hissatuwaza.kill.jp/setume/no-man.htm#no-man7",
+                "user": "デービッド・フライト",
+                "description": "物を透かして見ることができる。この能力と弾道を曲げることができる銃、そして百発百中の銃の腕前があれば、壁の向こうにいる相手を狙い撃ちにすることもできる。(少不さんより)"
+            },
+            {
+                "move_name": "音速能力",
+                "url": "https://hissatuwaza.kill.jp/setume/no-man.htm#no-man4",
+                "user": "ブッチ",
+                "description": "目にも留まらぬスピードで走る。(少不さんより)"
+            }
+        ]
+    },
+    {
+        "series_name": "ノーラと刻の工房",
+        "series_url": "https://hissatuwaza.kill.jp/setume/no-ra.htm",
+        "moves": [
+            {
+                "move_name": "かすみ突き",
+                "url": "https://hissatuwaza.kill.jp/setume/no-ra.htm#no-ra10",
+                "user": "カルナ",
+                "description": "残像しか見えないほどの高速で、一気に鋭い突きを繰り出す大技。その衝撃は後ろに隠れている敵も全て貫くほどの、貫通型物理攻撃。消費SP2。\n縦に並んでる敵の場合には、いい感じですけども、単体ではコスト的に悪い感じですね。\n(真流KENさんより)"
+            },
+            {
+                "move_name": "オーロラブロウ",
+                "url": "https://hissatuwaza.kill.jp/setume/no-ra.htm#no-ra2",
+                "user": "ノーラ・ブランドル",
+                "description": "気をためて、剣の先から虹色に光るエネルギーの球を飛ばす属性攻撃。消費SP2。\n防御力が高い相手には有効ですが、コストが高いのが難点か。(真流KENさんより)"
+            },
+            {
+                "move_name": "スムカーシ",
+                "url": "https://hissatuwaza.kill.jp/setume/no-ra.htm#no-ra8",
+                "user": "メロウ",
+                "description": "杖に念を込めて大気の力を一点に集中させて殴ることで、本来の杖以外のエネルギーを敵に与える属性攻撃。消費SP1。\n同じ属性攻撃であるオーロラブロウより、コスト的には優秀。(真流KENさんより)"
+            },
+            {
+                "move_name": "ディセクティオ",
+                "url": "https://hissatuwaza.kill.jp/setume/no-ra.htm#no-ra12",
+                "user": "キト・ベールマン",
+                "description": "一撃一撃はそれほど強くないが、数多く連打で攻撃することで大きなダメージを出せるように考えた、キトの物理攻撃技。消費SP1。\nいわゆる「オラオラ」と連打でぶん殴る技。……無理すんな。\n(真流KENさんより)"
+            },
+            {
+                "move_name": "バラスタチャージ",
+                "url": "https://hissatuwaza.kill.jp/setume/no-ra.htm#no-ra3",
+                "user": "ノーラ・ブランドル、ケケ",
+                "description": "敵が何か良さそうな物を持っていそうな場所を狙って攻撃する物理攻撃技。消費SP1。\nこの技で首尾よく倒せれば、ドロップアイテムの獲得確立が上がりますが、とどめを刺せないと効果はなく、あくまでも確率上げるだけなので、おまけ程度に考えたほうがいいでしょうね。(真流KENさんより)"
+            },
+            {
+                "move_name": "ロイスタヴィーバ",
+                "url": "https://hissatuwaza.kill.jp/setume/no-ra.htm#no-ra5",
+                "user": "ルッツ・アレニウス",
+                "description": "敵の前でジャンプし、重力を利用して剣を振り、大ダメージを出す物理攻撃。消費SP1。\nルッツの攻撃技はこれしかないため、最後まで使える技でしょうかね。(真流KENさんより)"
+            },
+            {
+                "move_name": "ヴィーレアブロウ",
+                "url": "https://hissatuwaza.kill.jp/setume/no-ra.htm#no-ra1",
+                "user": "",
+                "description": ""
+            },
+            {
+                "move_name": "最後の力",
+                "url": "https://hissatuwaza.kill.jp/setume/no-ra.htm#no-ra6",
+                "user": "ルッツ・アレニウス",
+                "description": "戦闘不能になるほどのダメージを負っても、根性で耐えしのぐ、ルッツの気合いがなせる技。\nHPが0になった時点で、一度だけHPが1の状態で復活。いわば某ファイナルRPGでの自己リレイズか。\n説明にあるように、すぐに回復が必要です。(真流KENさんより)"
+            },
+            {
+                "move_name": "栄光の手",
+                "url": "https://hissatuwaza.kill.jp/setume/no-ra.htm#no-ra4",
+                "user": "ケケ",
+                "description": "敵が持っている物を、さっとかすめ取る技。消費SP2。\nいわゆるアイテムを盗む技ですけど、成功確立はやや低めっぽいです。\n(真流KENさんより)"
+            },
+            {
+                "move_name": "気合いため",
+                "url": "https://hissatuwaza.kill.jp/setume/no-ra.htm#no-ra11",
+                "user": "カルナ",
+                "description": "一旦、ぐっと力を蓄えて次の攻撃時にその力を一気に解放して攻撃する。消費SP1。\n使用後の次のターン時には物理攻撃が3倍になるので、その次はかすみ突き……といくところですけど、強化された攻撃力は、物理攻撃系のアイテムにも適用されるので、激堅黒パンなどを投げつければ、範囲的にすごいダメージが出たりします。\n(真流KENさんより)"
+            },
+            {
+                "move_name": "癒しの手",
+                "url": "https://hissatuwaza.kill.jp/setume/no-ra.htm#no-ra9",
+                "user": "メロウ",
+                "description": "患部に手を当てることで、不思議な力で体力を回復させることが出来る、メロウの得意技。消費SP2。\n回復量はレベル依存で、少しずつ成長します。(真流KENさんより)"
+            },
+            {
+                "move_name": "真なる目",
+                "url": "https://hissatuwaza.kill.jp/setume/no-ra.htm#no-ra7",
+                "user": "シルカ・ビョルン",
+                "description": "じっと相手の姿を観察し、弱点と思われる場所を一気に突く物理攻撃で、必ずクリティカルヒットを繰り出せる技。消費SP1。\nコスト的に優秀かつ、パッシブ系の「ピュヒミュス（不死の生物に対して強力な攻撃力を持つ聖なる加護。シルカは常にこの加護に包まれている）」の効果のおかげで、対ドルイド系などでは絶大な効果を発揮します。(真流KENさんより)"
+            }
+        ]
+    },
+    {
+        "series_name": "信長の忍び",
+        "series_url": "https://hissatuwaza.kill.jp/setume/nobusino.htm",
+        "moves": [
+            {
+                "move_name": "ぐるぐる斬り",
+                "url": "https://hissatuwaza.kill.jp/setume/nobusino.htm#nobusino2",
+                "user": "千鳥",
+                "description": "第143話初登場。\n相手の前で片手のひらをグルグルと回すことによって、\n相手の目を回させる。冗談のような技だが相手には効果があった。"
+            },
+            {
+                "move_name": "変わり身の術",
+                "url": "https://hissatuwaza.kill.jp/setume/nobusino.htm#nobusino6",
+                "user": "佐久間信盛",
+                "description": "第173話初登場。\n攻撃をくらったと見せかけ、他の者と代わって\nダメージを受けてもらう奥義。"
+            },
+            {
+                "move_name": "大太刀大旋風",
+                "url": "https://hissatuwaza.kill.jp/setume/nobusino.htm#nobusino1",
+                "user": "真柄直隆",
+                "description": "第66話初登場。煙を取り払うために使用した技で、\n大太刀を独楽のように回転しながら振り回す技。"
+            },
+            {
+                "move_name": "宙返り蹴鞠弾",
+                "url": "https://hissatuwaza.kill.jp/setume/nobusino.htm#nobusino8",
+                "user": "千鳥",
+                "description": "第208話初登場。\nオーバーヘッドキックするようにして鞠を蹴飛ばす。"
+            },
+            {
+                "move_name": "忍法 一夜城の術",
+                "url": "https://hissatuwaza.kill.jp/setume/nobusino.htm#nobusino3",
+                "user": "千鳥",
+                "description": "第20話初登場。秀吉の想像内で使用された忍法。\n巻物を咥えて、一瞬にして城を生み出してしまう。"
+            },
+            {
+                "move_name": "忍法 埋火(うずめび)",
+                "url": "https://hissatuwaza.kill.jp/setume/nobusino.htm#nobusino7",
+                "user": "助蔵",
+                "description": "第190話初登場。\nいわゆる地雷のようなものを設置して相手に踏ませて爆破する忍法。"
+            },
+            {
+                "move_name": "物真似の術",
+                "url": "https://hissatuwaza.kill.jp/setume/nobusino.htm#nobusino4",
+                "user": "千鳥",
+                "description": "第29話初登場。動物の鳴きマネをする術。\n忍び込んだ際に敵に見つかりそうになった際に使用したりする。"
+            },
+            {
+                "move_name": "龍月円舞",
+                "url": "https://hissatuwaza.kill.jp/setume/nobusino.htm#nobusino5",
+                "user": "斎藤龍興",
+                "description": "第168話初登場。\n一太刀で複数の相手を切り裂いた秘剣。"
             }
         ]
     },
@@ -1818,104 +1440,482 @@
         ]
     },
     {
-        "series_name": "ノロマジョ",
-        "series_url": "https://hissatuwaza.kill.jp/setume/noromajo.htm",
+        "series_name": "濃爆おたく先生",
+        "series_url": "https://hissatuwaza.kill.jp/setume/noubakus.htm",
         "moves": [
             {
-                "move_name": "笑顔になあれビーム",
-                "url": "https://hissatuwaza.kill.jp/setume/noromajo.htm#noromajo1",
-                "user": "ゆとり",
-                "description": "最終話にて登場。\n魔法の杖からビームを発射して対象を浄化する。\n相手は「スマイリー」と言いながら浄化される。"
+                "move_name": "オルテガハンマー",
+                "url": "https://hissatuwaza.kill.jp/setume/noubakus.htm#noubakus1",
+                "user": "暴尾亜空（あばおあくう）",
+                "description": "両手を組んで握り、相手の頭にたたきつける。主におたくとして許せない相手に対して使用する。(少不さんより)"
+            },
+            {
+                "move_name": "ガイアドリルパンチ",
+                "url": "https://hissatuwaza.kill.jp/setume/noubakus.htm#noubakus4",
+                "user": "暴尾亜空（あばおあくう）",
+                "description": "右手にドリルをつけて攻撃（？）する。「ガイア大佐のドムがドリルを装備していれば、ガンダムに勝てたかもしれない」という思いから作った。(少不さんより)"
+            },
+            {
+                "move_name": "ジェットパフォーマンスアタック",
+                "url": "https://hissatuwaza.kill.jp/setume/noubakus.htm#noubakus3",
+                "user": "叫ぶジオンの会",
+                "description": "路上でガンダム（特にジオン）について熱い思いを叫び、行きかう人々の心を震わせる。(少不さんより)"
+            },
+            {
+                "move_name": "ムンゾ流奥義コロニー落とし",
+                "url": "https://hissatuwaza.kill.jp/setume/noubakus.htm#noubakus2",
+                "user": "暴尾亜空（あばおあくう）",
+                "description": "擦符麗夜（こすぷれいや）が想像した技。どんな技かは不明。(少不さんより)"
+            },
+            {
+                "move_name": "モノリスチョップ",
+                "url": "https://hissatuwaza.kill.jp/setume/noubakus.htm#noubakus5",
+                "user": "千巣負湾打（せんすおぶわんだ）",
+                "description": "謎の石版、モノリスで殴る。アシモフをおちょくられたために使用したが、モノリスはアシモフではなくクラークだそうだ。(少不さんより)"
+            },
+            {
+                "move_name": "夏への扉チョップ",
+                "url": "https://hissatuwaza.kill.jp/setume/noubakus.htm#noubakus6",
+                "user": "暴尾亜空（あばおあくう）",
+                "description": "その辺のドアを取り外して殴る。「モノリスチョップ」からさらにずらした技。(少不さんより)"
             }
         ]
     },
     {
-        "series_name": "NONすけ～る",
-        "series_url": "https://hissatuwaza.kill.jp/setume/nonsuke-ru.htm",
+        "series_name": "濃爆おたく大統領",
+        "series_url": "https://hissatuwaza.kill.jp/setume/noubakuotaku.htm",
         "moves": [
             {
-                "move_name": "ロケットパンチ",
-                "url": "https://hissatuwaza.kill.jp/setume/nonsuke-ru.htm#nonsuke-ru1",
-                "user": "フィア",
-                "description": "第4話初登場。\n手の部分を有線によって伸ばして\nいろいろおこなう。"
+                "move_name": "わにパンチ",
+                "url": "https://hissatuwaza.kill.jp/setume/noubakuotaku.htm#noubaku1",
+                "user": "おたく大統領",
+                "description": "大統領の頭に住み着き、萌えるエ○ゲに「萌えるワニ〜」と鳴く伝説のUMA「萌えるワニ」によるかみつき攻撃。\nけっしてパンチではない。(2cさんより)"
+            },
+            {
+                "move_name": "史上最大助走地球一周ロケットパンチ",
+                "url": "https://hissatuwaza.kill.jp/setume/noubakuotaku.htm#noubaku3",
+                "user": "おたく三塁手",
+                "description": "助走した範囲を廃墟にして放つ究極のロケットパンチ。悪の組織の方がなんぼかマシである。(2cさんより)"
+            },
+            {
+                "move_name": "大回転えびぞり分身HJロケットパンチ",
+                "url": "https://hissatuwaza.kill.jp/setume/noubakuotaku.htm#noubaku4",
+                "user": "おたく横綱",
+                "description": "最強のロケットパンチ候補の1つ。まず右腕を握りつぶし、大回転しつつ上昇、エビぞって投げる　らしい。(2cさんより)"
+            },
+            {
+                "move_name": "明日のためにその2ロケットパンチ",
+                "url": "https://hissatuwaza.kill.jp/setume/noubakuotaku.htm#noubaku6",
+                "user": "おたく将軍",
+                "description": "最強のロケットパンチ候補の1つ。ファイティングポーズをとり、目標をぶちぬくように撃つべし！ロボットが人型である理由らしい。(2cさんより)"
+            },
+            {
+                "move_name": "案(アイデア)電波",
+                "url": "https://hissatuwaza.kill.jp/setume/noubakuotaku.htm#noubaku2",
+                "user": "特撮大臣、セント＝ウィーンほか",
+                "description": "「考えた案はどうする？」「監督に投書すれば…」「いや、投書ではプライドの高い彼らはけして使わない。\n彼らに思いつかせればいいのだ！」 (2cさんより)"
+            },
+            {
+                "move_name": "潮招きロケットパンチ",
+                "url": "https://hissatuwaza.kill.jp/setume/noubakuotaku.htm#noubaku5",
+                "user": "おたく伯爵",
+                "description": "最強のロケットパンチとして考えられた技。\n本体より大きな腕で攻撃。もちろんバックファイヤーでボロボロに。そこがかっこいいらしい。(2cさんより)"
+            },
+            {
+                "move_name": "破邪剣征桜花放神",
+                "url": "https://hissatuwaza.kill.jp/setume/noubakuotaku.htm#noubaku7",
+                "user": "Z",
+                "description": "「サクラ大戦おっかけ日記」に登場。元ネタは「サクラ大戦」の技だが、実際はただ本（マガジンZ）で殴っているだけ。同種の技に「スネグーラチカ」「ピーカヴァヤ・ダーマ」などがある。「スネグーラチカ」だけは、本二冊で殴っていた。(少不さんより)"
             }
         ]
     },
     {
-        "series_name": "のんのんびより",
-        "series_url": "https://hissatuwaza.kill.jp/setume/nonnon.htm",
+        "series_name": "濃縮メロンコリニスタ",
+        "series_url": "https://hissatuwaza.kill.jp/setume/meronko.htm",
         "moves": [
             {
-                "move_name": "グレートマンパンチ",
-                "url": "https://hissatuwaza.kill.jp/setume/nonnon.htm#nonnon4",
-                "user": "宮内れんげ",
-                "description": "第19話初登場。作中のテレビ番組のヒーローが使用すると思われる攻撃。\n作中では小1のれんげが遊びで繰り出している。"
+                "move_name": "忍法分身の術",
+                "url": "https://hissatuwaza.kill.jp/setume/meronko.htm#meronko1",
+                "user": "V字型頭のキャラの残像",
+                "description": "5玉めの｢抜け忍｣で登場。この技に対して巾着型頭のキャラは手裏剣を投げて攻撃するも、全て残像だった(発動した人物も含む)為攻撃は外れてしまった。(小浜太介さんより)"
+            }
+        ]
+    },
+    {
+        "series_name": "脳みそプルン！",
+        "series_url": "https://hissatuwaza.kill.jp/setume/noumisop.htm",
+        "moves": [
+            {
+                "move_name": "3本の矢(サンフレッチェ)広島",
+                "url": "https://hissatuwaza.kill.jp/setume/noumisop.htm#noumisop21",
+                "user": "毛利三兄弟",
+                "description": "1人に対して3人で、\n多方向から同時に手に持った\n打ち上げ花火を相手に向けて放つ。(しかも至近距離で)"
             },
             {
-                "move_name": "スネ蹴り",
-                "url": "https://hissatuwaza.kill.jp/setume/nonnon.htm#nonnon9",
-                "user": "越谷夏海、宮内れんげ",
-                "description": "第74話初登場。相手のスネを蹴りつける必殺やら禁じ手に分類されるもの。\n元々は夏海が使用していたが、れんちょんにも受け継がれている。"
+                "move_name": "「俺昨日全然テスト勉強してないよ」と言っておきながら目の下にクマを作ってるビーム",
+                "url": "https://hissatuwaza.kill.jp/setume/noumisop.htm#noumisop5",
+                "user": "山田マン",
+                "description": "目の下のクマからビームを撃つ。山田がよくやる行動がモチーフらしい。(松の字さんより)"
             },
             {
-                "move_name": "ミラクルローリングずつき",
-                "url": "https://hissatuwaza.kill.jp/setume/nonnon.htm#nonnon8",
-                "user": "",
-                "description": "夏海とれんげが描いた漫画のキャラが\n繰り出したキリモミ回転しながら繰り出す頭突き攻撃。"
+                "move_name": "おふくろふくろ拳",
+                "url": "https://hissatuwaza.kill.jp/setume/noumisop.htm#noumisop10",
+                "user": "甲府の爆弾",
+                "description": "相手に布団を掛けて視界と動きを封じ、パンチのラッシュを浴びせて眠りにつかせる。(松の字さんより)"
             },
             {
-                "move_name": "わかったから落ち着きさないチョップ",
-                "url": "https://hissatuwaza.kill.jp/setume/nonnon.htm#nonnon1",
-                "user": "越谷夏海",
-                "description": "第3話初登場。自分より小さい姉に対して繰り出した上からのチョップ。\n叩くというよりはうるさく騒ぐ姉へのツッコミ的な一撃。"
+                "move_name": "ここテスト出るぞ攻撃",
+                "url": "https://hissatuwaza.kill.jp/setume/noumisop.htm#noumisop28",
+                "user": "マスク・ド・教師",
+                "description": "チョークを持ち、それで黒板を叩くような動作で敵の顔面を攻撃する。(松の字さんより)"
             },
             {
-                "move_name": "障子パンチ",
-                "url": "https://hissatuwaza.kill.jp/setume/nonnon.htm#nonnon2",
-                "user": "越谷夏海",
-                "description": "幼き頃の夏海が繰り出した障子を破いたパンチ。"
+                "move_name": "たわらこすり",
+                "url": "https://hissatuwaza.kill.jp/setume/noumisop.htm#noumisop15",
+                "user": "覆面(マスク)山",
+                "description": "相手の顔面をつかみ、土俵の俵にこすりつけて攻撃する。ちなみに相手の髷を持っているので、この技を出した時点で反則負けである。(松の字さんより)"
             },
             {
-                "move_name": "白刃取り",
-                "url": "https://hissatuwaza.kill.jp/setume/nonnon.htm#nonnon7",
-                "user": "越谷卓",
-                "description": "第56話初登場。定規落としという遊びで使用される技。\n机の外に弾き飛ばされそうになった自身の定規をペンを振るって\n机の中に弾き飛ばす。上級技に分類されるらしい。"
+                "move_name": "つよしキック",
+                "url": "https://hissatuwaza.kill.jp/setume/noumisop.htm#noumisop24",
+                "user": "つよし",
+                "description": "某歌手にそっくりの保育園児・つよしの必殺キック。かけ声は「ソイヤ！」。(松の字さんより)"
             },
             {
-                "move_name": "滝登り",
-                "url": "https://hissatuwaza.kill.jp/setume/nonnon.htm#nonnon5",
-                "user": "宮内れんげ",
-                "description": "第56話初登場。定規落としという遊びで使用される技。\n自身の定規の端をペンで突くことによって、自身の定規を跳ね上げて\n上に乗った相手の定規を弾き飛ばす。\nひか姉が命名したらしい。"
+                "move_name": "よそ見投げ",
+                "url": "https://hissatuwaza.kill.jp/setume/noumisop.htm#noumisop42",
+                "user": "チームネギネギ",
+                "description": "空中で回転しながら、ネギをばらまく。（松の字さんより）"
             },
             {
-                "move_name": "燕返し",
-                "url": "https://hissatuwaza.kill.jp/setume/nonnon.htm#nonnon6",
-                "user": "宮内れんげ",
-                "description": "第56話初登場。定規落としという遊びで使用される技。\n机の端にはみ出た定規をペンを使ってひっくり返す。"
+                "move_name": "ギプスキック",
+                "url": "https://hissatuwaza.kill.jp/setume/noumisop.htm#noumisop41",
+                "user": "パポン",
+                "description": "その名の通り、なぜか悪臭を放つ魔球。最近はむかついた打者に打たれることが多くなってきたらしい。（松の字さんより）"
             },
             {
-                "move_name": "夏海ちゃんダイナマイトピローアタック",
-                "url": "https://hissatuwaza.kill.jp/setume/nonnon.htm#nonnon11",
-                "user": "越谷夏海",
-                "description": "アニメ版第8話初登場。\n枕投げで使用した一撃。\n結果、ふすまに手をぶつけて穴を開けてしまう。"
+                "move_name": "ギャラクティカトッピング",
+                "url": "https://hissatuwaza.kill.jp/setume/noumisop.htm#noumisop34",
+                "user": "桜田大門",
+                "description": "オーラに包まれて空中に浮き、逆立ちした体勢で料理の盛りつけを行う。(松の字さんより)"
             },
             {
-                "move_name": "夏海ちゃんパンチ",
-                "url": "https://hissatuwaza.kill.jp/setume/nonnon.htm#nonnon12",
-                "user": "越谷夏海",
-                "description": "第1話初登場。\n幼き頃の夏海が駄菓子屋に対して放ったパンチ。"
+                "move_name": "グランドクロス",
+                "url": "https://hissatuwaza.kill.jp/setume/noumisop.htm#noumisop33",
+                "user": "桜田大門",
+                "description": "ふたつのフライパンを交差させるように持ち、ジャンプしながらふたつの料理を同時に焼く。バックには、当然のごとく宇宙が出現する。(松の字さんより)"
             },
             {
-                "move_name": "必殺確殺シュート",
-                "url": "https://hissatuwaza.kill.jp/setume/nonnon.htm#nonnon10",
-                "user": "越谷夏海",
-                "description": "第93話初登場。ボール投げにおいて本人曰く自身で編み出したもの。\nすべてを確殺するらしく、作中では盆栽を確殺している。"
+                "move_name": "サッカーやってて地球にケンカを売っちまったキック",
+                "url": "https://hissatuwaza.kill.jp/setume/noumisop.htm#noumisop6",
+                "user": "山田マン",
+                "description": "サッカーボールを蹴るつもりが、地面を蹴ってしまう。山田が昔やってしまったミスがモチーフらしい。普通に考えて自分が痛いだけなのだが、なぜか敵もダメージを受けていた。(松の字さんより)"
             },
             {
-                "move_name": "必殺 瓦投げ",
-                "url": "https://hissatuwaza.kill.jp/setume/nonnon.htm#nonnon3",
-                "user": "越谷夏海",
-                "description": "幼き頃の夏海が繰り出した屋根に登ってからの、瓦を投げる本人曰く必殺技。"
+                "move_name": "サークル作り",
+                "url": "https://hissatuwaza.kill.jp/setume/noumisop.htm#noumisop20",
+                "user": "ビッグ・ザ・グレイ",
+                "description": "自らUFOに乗り込み、謎のビームで相手の体にミステリーサークルを作る反則技。(松の字さんより)"
+            },
+            {
+                "move_name": "スキューバ拳",
+                "url": "https://hissatuwaza.kill.jp/setume/noumisop.htm#noumisop31",
+                "user": "土佐の水神",
+                "description": "相手を海中に放り込み、アクアラングから空気の代わりに自分の屁を送り込んで悶絶させる。使用後、相手から「『拳』じゃないじゃん、これ」とつっこまれてしまった。(松の字さんより)"
+            },
+            {
+                "move_name": "トルネードネギ食え",
+                "url": "https://hissatuwaza.kill.jp/setume/noumisop.htm#noumisop42",
+                "user": "チームネギネギ",
+                "description": "空中で回転しながら、ネギをばらまく。（松の字さんより）"
+            },
+            {
+                "move_name": "ドリルブラスター",
+                "url": "https://hissatuwaza.kill.jp/setume/noumisop.htm#noumisop14",
+                "user": "キング歯科の医師",
+                "description": "[1]両手のドリルで連続して突きを繰り出し、歯を削る。(松の字さんより)\n[2]頭部の巨大ドリルを患者の口に突っ込み、歯を削る。絵を見る限り、まともな治療行為が行われているとは考えがたい。(松の字さんより)"
+            },
+            {
+                "move_name": "ドリル舞踏会",
+                "url": "https://hissatuwaza.kill.jp/setume/noumisop.htm#noumisop14",
+                "user": "キング歯科の医師",
+                "description": "[1]両手のドリルで連続して突きを繰り出し、歯を削る。(松の字さんより)\n[2]頭部の巨大ドリルを患者の口に突っ込み、歯を削る。絵を見る限り、まともな治療行為が行われているとは考えがたい。(松の字さんより)"
+            },
+            {
+                "move_name": "ニュークラウン",
+                "url": "https://hissatuwaza.kill.jp/setume/noumisop.htm#noumisop27",
+                "user": "生命小宇宙戦隊ジンタイ",
+                "description": "[1]合体することで普通の少年に変身する戦隊ヒーロー・ジンタイの必殺技。威力はほとんどない。(松の字さんより)\n[2]合体することで普通の少年に変身する戦隊ヒーロー・ジンタイの必殺技。威力はあまり無い。(松の字さんより)"
+            },
+            {
+                "move_name": "ニューホライズン",
+                "url": "https://hissatuwaza.kill.jp/setume/noumisop.htm#noumisop27",
+                "user": "生命小宇宙戦隊ジンタイ",
+                "description": "[1]合体することで普通の少年に変身する戦隊ヒーロー・ジンタイの必殺技。威力はほとんどない。(松の字さんより)\n[2]合体することで普通の少年に変身する戦隊ヒーロー・ジンタイの必殺技。威力はあまり無い。(松の字さんより)"
+            },
+            {
+                "move_name": "ネギネギカット",
+                "url": "https://hissatuwaza.kill.jp/setume/noumisop.htm#noumisop1",
+                "user": "ネギネギマスター",
+                "description": "真心を込めながら、ネギを光速で千切りにする。包丁とまな板が奏でる音色によって、ミラクルヒロシの落語に魅了されていたネギネギ団2号と3号を正気に戻した。(松の字さんより)"
+            },
+            {
+                "move_name": "ノブナガスパート",
+                "url": "https://hissatuwaza.kill.jp/setume/noumisop.htm#noumisop38",
+                "user": "ノブナガ",
+                "description": "マラソンの高橋尚子のように、サングラスを投げ捨てて猛ダッシュする。この時Qちゃんつながりで、ちょんまげがオバケのQ太郎の髪型に変化している。\n(松の字さんより)"
+            },
+            {
+                "move_name": "フォールはずし",
+                "url": "https://hissatuwaza.kill.jp/setume/noumisop.htm#noumisop18",
+                "user": "ビッグ・ザ・グレイ",
+                "description": "UFOを呼び、相手を吸い寄せてもらうことでフォールから逃れる反則技。(松の字さんより)"
+            },
+            {
+                "move_name": "ヘルズピッチング",
+                "url": "https://hissatuwaza.kill.jp/setume/noumisop.htm#noumisop37",
+                "user": "野球戦隊野球ナイン",
+                "description": "単に敵めがけて思いっきりボールを投げるだけの技。(松の字さんより)"
+            },
+            {
+                "move_name": "ベースランニングボム",
+                "url": "https://hissatuwaza.kill.jp/setume/noumisop.htm#noumisop36",
+                "user": "野球戦隊野球ナイン",
+                "description": "相手の足元で爆発を起こす。絵が小さいので詳細不明。(松の字さんより)"
+            },
+            {
+                "move_name": "ミラクル弟子気分",
+                "url": "https://hissatuwaza.kill.jp/setume/noumisop.htm#noumisop23",
+                "user": "ミラクルヒロシ",
+                "description": "相手がまるで自分の弟子であるかのように振るまい、本当に弟子入りしたと錯覚させてしまう幻惑技。(松の字さんより)"
+            },
+            {
+                "move_name": "メガネ落とし",
+                "url": "https://hissatuwaza.kill.jp/setume/noumisop.htm#noumisop40",
+                "user": "ノブナガ",
+                "description": "相手のメガネをつかんで投げ飛ばす。かけた相手が、顔とサングラスが一体化している一休だからこそ成立した技であろう。(松の字さんより)"
+            },
+            {
+                "move_name": "ライトニングカット",
+                "url": "https://hissatuwaza.kill.jp/setume/noumisop.htm#noumisop32",
+                "user": "桜田大門",
+                "description": "空中に放り投げた食材を、日本刀で切り刻む。(松の字さんより)"
+            },
+            {
+                "move_name": "一休鉄槌肘",
+                "url": "https://hissatuwaza.kill.jp/setume/noumisop.htm#noumisop4",
+                "user": "代目一休",
+                "description": "「靴ひもがほどけている」といって相手をかがませ、その隙をついて肘を相手の後頭部に落とす荒技。(松の字さんより)"
+            },
+            {
+                "move_name": "二学期初めの身体検査攻撃",
+                "url": "https://hissatuwaza.kill.jp/setume/noumisop.htm#noumisop29",
+                "user": "マスク・ド・教師",
+                "description": "相手の髪の毛をむしり取って攻撃する。(松の字さんより)"
+            },
+            {
+                "move_name": "休載先告",
+                "url": "https://hissatuwaza.kill.jp/setume/noumisop.htm#noumisop44",
+                "user": "漫画仙人",
+                "description": "長年の修行で得た予知能力により、来月までに休載する漫画を当てることができる奥義。(松の字さんより)"
+            },
+            {
+                "move_name": "何か埋め込みクロー",
+                "url": "https://hissatuwaza.kill.jp/setume/noumisop.htm#noumisop19",
+                "user": "ビッグ・ザ・グレイ",
+                "description": "相手の額に、謎の機械を埋め込む反則技。(松の字さんより)"
+            },
+            {
+                "move_name": "兄貴パンチ",
+                "url": "https://hissatuwaza.kill.jp/setume/noumisop.htm#noumisop25",
+                "user": "犬神銀次",
+                "description": "「ロボ病」にかかってしまったヤクザ・犬神の技。子分がリモコンを操作することで、腕をロケットパンチとして飛ばす。(松の字さんより)"
+            },
+            {
+                "move_name": "千本ノック",
+                "url": "https://hissatuwaza.kill.jp/setume/noumisop.htm#noumisop35",
+                "user": "野球戦隊野球ナイン",
+                "description": "その名の通り数人でノックを行い、ボールを敵にぶつけて攻撃する。初戦では敵の怪人を苦しめたが、次の大戦では練習を積んだ怪人に全てキャッチされてしまった。(松の字さんより)"
+            },
+            {
+                "move_name": "名古屋攻沈",
+                "url": "https://hissatuwaza.kill.jp/setume/noumisop.htm#noumisop12",
+                "user": "名古屋のジェネラル",
+                "description": "鶏肉をバカにされた怒りによって発動する技。自身が飼育している数十羽の鶏（おそらく名古屋コーチン）が、一斉に敵に襲いかかる。(松の字さんより)"
+            },
+            {
+                "move_name": "売り子打法",
+                "url": "https://hissatuwaza.kill.jp/setume/noumisop.htm#noumisop16",
+                "user": "ビチロー",
+                "description": "ビールを売りながら打つという、むちゃくちゃな打法。それでも「メジャーで通用する」と言われるほどの結果を残しているのが恐ろしい。(松の字さんより)"
+            },
+            {
+                "move_name": "女・子供拳",
+                "url": "https://hissatuwaza.kill.jp/setume/noumisop.htm#noumisop9",
+                "user": "神奈川の破壊神＆その家族",
+                "description": "妻と息子が対戦相手に泣きつき、戦意を喪失させたところで三人の連係攻撃をくらわせる。(松の字さんより)"
+            },
+            {
+                "move_name": "帰宅部パンチ",
+                "url": "https://hissatuwaza.kill.jp/setume/noumisop.htm#noumisop26",
+                "user": "生命小宇宙戦隊ジンタイ",
+                "description": "合体することで普通の少年に変身する戦隊ヒーロー・ジンタイの必殺技。見た目も威力も情けないパンチ。(松の字さんより)"
+            },
+            {
+                "move_name": "振り子打法",
+                "url": "https://hissatuwaza.kill.jp/setume/noumisop.htm#noumisop39",
+                "user": "ビチロー",
+                "description": "現実の振り子打法とは異なり、バットの代わりに子供を持ち、さらにその子供がバットを持って打つ。「子供の方がすごいんじゃないか？」という指摘をされていたりもする。（松の字さんより）"
+            },
+            {
+                "move_name": "桃太郎拳",
+                "url": "https://hissatuwaza.kill.jp/setume/noumisop.htm#noumisop38",
+                "user": "ノブナガ",
+                "description": "マラソンの高橋尚子のように、サングラスを投げ捨てて猛ダッシュする。この時Qちゃんつながりで、ちょんまげがオバケのQ太郎の髪型に変化している。\n(松の字さんより)"
+            },
+            {
+                "move_name": "極太一本矢(ワンフレッチェ)信長",
+                "url": "https://hissatuwaza.kill.jp/setume/noumisop.htm#noumisop22",
+                "user": "ノブナガ",
+                "description": "相手のフルフェイスの\nヘルメットの中に爆竹を投下して、炸裂させる。"
+            },
+            {
+                "move_name": "武落苦(ブラック)指突殺",
+                "url": "https://hissatuwaza.kill.jp/setume/noumisop.htm#noumisop2",
+                "user": "武落苦吉四六(ブラックきっちょむ)",
+                "description": "ひざかっくんをすさまじい破壊力に進化させた技。(松の字さんより)"
+            },
+            {
+                "move_name": "武落苦(ブラック)破脚蹴",
+                "url": "https://hissatuwaza.kill.jp/setume/noumisop.htm#noumisop2",
+                "user": "武落苦吉四六(ブラックきっちょむ)",
+                "description": "ひざかっくんをすさまじい破壊力に進化させた技。(松の字さんより)"
+            },
+            {
+                "move_name": "牛出産拳",
+                "url": "https://hissatuwaza.kill.jp/setume/noumisop.htm#noumisop30",
+                "user": "神戸の弾丸＆その仲間",
+                "description": "牛の子宮の中に隠れ、これから牛の出産が始まると偽って敵を誘い寄せる。そして相手が牛の背後に立ったところで、飛び出してきて攻撃する。相手が来るまで飲まず食わずで待っていなければならないため、技を出したあと自分も気絶してしまった。(松の字さんより)"
+            },
+            {
+                "move_name": "猪馬ボム",
+                "url": "https://hissatuwaza.kill.jp/setume/noumisop.htm#noumisop17",
+                "user": "猪馬",
+                "description": "相手をつかんで逆さにし、頭から落とす正統派のプロレス技。(松の字さんより)"
+            },
+            {
+                "move_name": "肛門アッパー",
+                "url": "https://hissatuwaza.kill.jp/setume/noumisop.htm#noumisop40",
+                "user": "ノブナガ",
+                "description": "相手のメガネをつかんで投げ飛ばす。かけた相手が、顔とサングラスが一体化している一休だからこそ成立した技であろう。(松の字さんより)"
+            },
+            {
+                "move_name": "臭う魔球",
+                "url": "https://hissatuwaza.kill.jp/setume/noumisop.htm#noumisop41",
+                "user": "パポン",
+                "description": "その名の通り、なぜか悪臭を放つ魔球。最近はむかついた打者に打たれることが多くなってきたらしい。（松の字さんより）"
+            },
+            {
+                "move_name": "茶ッパー",
+                "url": "https://hissatuwaza.kill.jp/setume/noumisop.htm#noumisop11",
+                "user": "静岡の秒殺魔神",
+                "description": "まず相手にお茶を勧める。相手がそれに口を付けた瞬間、アッパー気味の掌底で湯飲みを顔面に叩きつける。湯飲みがぶつかる衝撃と沸騰したお茶によるダメージで、今までこの技をくらって立ち上がってきたものはいないらしい。(松の字さんより)"
+            },
+            {
+                "move_name": "誘導身砕流(みさいる)",
+                "url": "https://hissatuwaza.kill.jp/setume/noumisop.htm#noumisop8",
+                "user": "二代目一休",
+                "description": "地中に潜って相手を追いかけ、背後から飛び出して体当たりをくらわせる。(松の字さんより)"
+            },
+            {
+                "move_name": "追掛蹴手反血(おいかけてぱんち)",
+                "url": "https://hissatuwaza.kill.jp/setume/noumisop.htm#noumisop7",
+                "user": "二代目一休",
+                "description": "単に相手をものすごい勢いで追いかけ、殴るだけの技。(松の字さんより)"
+            },
+            {
+                "move_name": "頁数確眼",
+                "url": "https://hissatuwaza.kill.jp/setume/noumisop.htm#noumisop43",
+                "user": "漫画仙人",
+                "description": "ページ数が書かれていないため、見つけるのが困難な扉ページでも一発で開くことができる奥義。(松の字さんより)"
+            },
+            {
+                "move_name": "食い倒れ拳",
+                "url": "https://hissatuwaza.kill.jp/setume/noumisop.htm#noumisop13",
+                "user": "大坂の太閤",
+                "description": "相手の口から胃まで拳を突っ込み、そこで増えるわかめと水をばらまくことによって胃を限界まで膨らませる。(松の字さんより)"
+            },
+            {
+                "move_name": "高気圧シュート",
+                "url": "https://hissatuwaza.kill.jp/setume/noumisop.htm#noumisop3",
+                "user": "武落苦吉四六(ブラックきっちょむ)",
+                "description": "後から肩を叩き、振り向いた相手の頬に人差し指を刺すいたずらに、すさまじい破壊力を持たせた技。(松の字さんより)"
+            },
+            {
+                "move_name": "鼻フック背負い",
+                "url": "https://hissatuwaza.kill.jp/setume/noumisop.htm#noumisop39",
+                "user": "ビチロー",
+                "description": "現実の振り子打法とは異なり、バットの代わりに子供を持ち、さらにその子供がバットを持って打つ。「子供の方がすごいんじゃないか？」という指摘をされていたりもする。（松の字さんより）"
+            }
+        ]
+    },
+    {
+        "series_name": "農業ムスメ！",
+        "series_url": "https://hissatuwaza.kill.jp/setume/noumusu.htm",
+        "moves": [
+            {
+                "move_name": "トリキック",
+                "url": "https://hissatuwaza.kill.jp/setume/noumusu.htm#noumusu2",
+                "user": "ニワトリ",
+                "description": "1回目『越野家の朝』の｢卵とりその1｣で登場。卵を取ろうとしたヒカリの顔面目掛け両足での飛び蹴りを行う(技名は4コマ目の背景に書かれていた文章より)。(小浜太介さんより)"
+            },
+            {
+                "move_name": "必殺！権力とお金のパワー！！",
+                "url": "https://hissatuwaza.kill.jp/setume/noumusu.htm#noumusu1",
+                "user": "黒羽ミチル",
+                "description": "5回目『コスプレ大決戦！？』の｢スクランブル！！｣と｢必殺技？｣で登場。ビニールハウスを荒らしていたイノシシに対して変身後使用した技(ミチルは｢必殺技？｣の4コマ目でこの技名を言っている)。KSB(黒羽私設部隊)にトランシーバーで連絡を行い、戦闘機からの威嚇射撃でイノシシを追い払ってもらう。(小浜太介さんより)"
+            }
+        ]
+    },
+    {
+        "series_name": "野原ひろし 昼メシの流儀",
+        "series_url": "https://hissatuwaza.kill.jp/setume/hirosi.htm",
+        "moves": [
+            {
+                "move_name": "マヨビーム",
+                "url": "https://hissatuwaza.kill.jp/setume/hirosi.htm#hirosi3",
+                "user": "野原ひろし",
+                "description": "第12話初登場。唐揚げ定食の残り1個の唐揚げに対してイメージとして繰り出された攻撃。\n容器から勢い良くマヨネーズを発射する。"
+            },
+            {
+                "move_name": "唐辛子ジェット",
+                "url": "https://hissatuwaza.kill.jp/setume/hirosi.htm#hirosi2",
+                "user": "野原ひろし",
+                "description": "第12話初登場。唐揚げ定食の残り1個の唐揚げに対してイメージとして繰り出された攻撃。\n唐辛子の容器から勢い良く中身を噴射する。"
+            },
+            {
+                "move_name": "醤油シャワー",
+                "url": "https://hissatuwaza.kill.jp/setume/hirosi.htm#hirosi1",
+                "user": "野原ひろし",
+                "description": "第12話初登場。唐揚げ定食の残り1個の唐揚げに対してイメージとして繰り出された攻撃。\n醤油を勢い良く発射する。"
+            }
+        ]
+    },
+    {
+        "series_name": "野武士",
+        "series_url": "https://hissatuwaza.kill.jp/setume/nobusi.htm",
+        "moves": [
+            {
+                "move_name": "ちなみシールド",
+                "url": "https://hissatuwaza.kill.jp/setume/nobusi.htm#nobusi1",
+                "user": "三枝葉月",
+                "description": "ホワイトのヒロインの一人葉月が杉崇千波を犠牲にして発動する防御技で第22回に登場。まどかをわざと怒らせて殴りかかって来た所を、ちなみの顔面を盾にして防いだというもの。 (ブラストさんより)"
+            },
+            {
+                "move_name": "真空つっこみ",
+                "url": "https://hissatuwaza.kill.jp/setume/nobusi.htm#nobusi2",
+                "user": "仁科まどか",
+                "description": "ねこねこソフト第一作目ホワイトのヒロインが一人まどかのつっこみ。葉月にシカトされた腹いせに葉月以外の他のヒロインをぼこぼこにするというもの。みかなは髪の毛をぶち抜かれ、めぐみは顔を地面に叩きつけられ、いづみにいたっては頭から地面に埋められました。(ブラストさんより)"
             }
         ]
     }
